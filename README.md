@@ -4,7 +4,7 @@ ICU situation in Germany
 ## Capacity usage
 
 The graph shows ICU capacity usage for adult ICU beds in percent of
-total capacity. Last reported data is from **January 8th**.
+total capacity. Last reported data is from **January 14th**.
 
 ![ICU usage graph](icu_usage.png)
 
@@ -24,10 +24,10 @@ of schools).
 
 Observations:
 
-  - 85.7 % of capacity is currently in use with a 14 pp spread across
+  - 85.6 % of capacity is currently in use with a 13 pp spread across
     federal states
-  - 22.6 % of *total* capacity is currently used for Covid-19 patients
-  - 26.4 % of *used* capacity is occupied by Covid-19 patients
+  - 21.1 % of *total* capacity is currently used for Covid-19 patients
+  - 24.6 % of *used* capacity is occupied by Covid-19 patients
 
 ## Data sources & code
 
