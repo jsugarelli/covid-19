@@ -1,16 +1,12 @@
-ICU situation in Germany
+Covid-19 in One Graph
 ================
 
-## Capacity usage
+### Current Situation in Germany
 
 The graph shows ICU capacity usage for adult ICU beds in percent of
-total capacity. Last reported data is from **January 14th**.
+total capacity as well as the 7-day incidence and a 7-day moving average of Covid-19-related death cases. Last reported data is from **February 19th**.
 
-![ICU usage graph](icu_usage.png)
-
-Free capacity is gray, capacity used for non-Covid-19 patients is light
-blue and capacity currently in use for the treatment of Covid-19
-patients is dark blue.
+![](onepicture.png)
 
 The vertical blue lines mark the coming into effect of two major
 government measures: a partial lockdown on November 2nd (called
@@ -22,19 +18,14 @@ tighter lockdown (called *hard lockdown* in Germany; lockdown light plus
 closing of all shops except for essential supplies and services, closing
 of schools).
 
-Observations:
 
-  - 85.6 % of capacity is currently in use with a 13 pp spread across
-    federal states
-  - 21.1 % of *total* capacity is currently used for Covid-19 patients
-  - 24.6 % of *used* capacity is occupied by Covid-19 patients
+### Data sources & code
 
-## Data sources & code
-
-Data is from the German DIVI intensive care register operated by the
+ICU usage data is from the German DIVI intensive care register operated by the
 [Robert-Koch-Institut]() (RKI) and the [Deutsche Interdisziplinäre
 Vereinigung für Intensiv- und Notfallmedizin](https://www.divi.de/)
 (DIVI), and can be obtained from
 <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen> (click the
-links below the graphics to download the related data). Data and R
-source code can be found in this repository.
+links below the graphics to download the related data).
+Death case and 7-day incidence data is taken from the [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Daten.html;jsessionid=FB9800F61AE81ACFF850FB2567F1F1DB.internet071?nn=2386228).
+All data (already prepared for processing) and R source code can be found in this repository.

@@ -3,10 +3,9 @@ title: "ICU situation in Germany"
 output: github_document
 ---
 
-
 ## Capacity usage
 
-The graph shows ICU capacity usage for adult ICU beds in percent of total capacity. Last reported data is from **January 14th**. 
+The graph shows ICU capacity usage for adult ICU beds in percent of total capacity. Last reported data is from **January 14th**.
 
 ![ICU usage graph](icu_usage.png)
 
@@ -16,13 +15,10 @@ The vertical blue lines mark the coming into effect of two major government meas
 
 Observations:
 
-* 85.6 % of capacity is currently in use with a 13 pp spread across federal states
-* 21.1 % of *total* capacity is currently used for Covid-19 patients
-* 24.6 % of *used* capacity is occupied by Covid-19 patients
-
-
+-   85.6 % of capacity is currently in use with a 13 pp spread across federal states
+-   21.1 % of *total* capacity is currently used for Covid-19 patients
+-   24.6 % of *used* capacity is occupied by Covid-19 patients
 
 ## Data sources & code
 
-Data is from the German DIVI intensive care register operated by the [Robert-Koch-Institut]() (RKI) and the [Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin](<https://www.divi.de/>) (DIVI), and can be obtained from https://www.intensivregister.de/#/aktuelle-lage/zeitreihen (click the links below the graphics to download the related data).
-Data and R source code can be found in this repository.
+Data is from the German DIVI intensive care register operated by the [Robert-Koch-Institut]() (RKI) and the [Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin](https://www.divi.de/) (DIVI), and can be obtained from <https://www.intensivregister.de/#/aktuelle-lage/zeitreihen> (click the links below the graphics to download the related data). Data and R source code can be found in this repository.
