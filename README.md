@@ -25,7 +25,7 @@ ICU usage data is from the German DIVI intensive care register operated by the
 [Robert-Koch-Institut]() (RKI) and the [Deutsche Interdisziplinäre
 Vereinigung für Intensiv- und Notfallmedizin](https://www.divi.de/)
 (DIVI), and can be obtained from
-<https://www.intensivregister.de/#/aktuelle-lage/zeitreihen> (click the
-links below the graphics to download the related data).
-Death case and 7-day incidence data is taken from the [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Daten.html;jsessionid=FB9800F61AE81ACFF850FB2567F1F1DB.internet071?nn=2386228).
-All data (already prepared for processing) and R source code can be found in this repository.
+<https://www.intensivregister.de/#/aktuelle-lage/reports> (click "Zeitreihen-Daten" to download the time series data).
+Death cases and 7-day incidence data is taken from the [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Daten.html;jsessionid=FB9800F61AE81ACFF850FB2567F1F1DB.internet071?nn=2386228).
+
+All data (already pre-prepared) and R source code can be found in this repository.
