@@ -4,7 +4,7 @@ Covid-19 in One Graph
 ### Current Situation in Germany
 
 The graph shows ICU capacity usage for adult ICU beds in percent of
-total capacity as well as the 7-day incidence and a 7-day moving average of Covid-19-related death cases. Last reported data is from **February 19th**.
+total capacity as well as the 7-day incidence and a 7-day moving average of Covid-19-related death cases. Last reported data is from **February 25th**.
 
 ![](onepicture.png)
 
