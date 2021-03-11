@@ -7,8 +7,7 @@ library(lubridate)
 library(stringr)
 
 
-# TODO: Update Readme
-# TODO: Axes in color, legend entries in same colors
+Sys.setlocale("LC_ALL","English")
 
 
 # --------------- Support functions --------------- 
@@ -72,6 +71,7 @@ class(inc$incidence) <- "numeric"
 
 # Germany
 vacc_de <- as_tibble(read.csv("vaccinations_de.csv", sep = ";", header = TRUE, stringsAsFactors = FALSE))
+names(vacc_de)[1] <- "date"
 population <- 83190556
 vacc_de$doses <- (vacc_de$dosen_biontech_kumulativ + vacc_de$dosen_moderna_kumulativ + vacc_de$dosen_astrazeneca_kumulativ)
 vacc_de$dosesp <- (vacc_de$doses/2)/population * 100
@@ -97,7 +97,7 @@ vacc_de$date <- dmy(vacc_de$date)
 vacc_us <- as_tibble(read.csv("vaccinations_us.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE))
 names(vacc_us) <- c("country", "code", "date", "secvaccrate_us")
 vacc_us$date <- ymd(vacc_us$date)
-vacc_us$firstvaccrate_us <- vacc_us$firstvaccrate_us
+vacc_us$secvaccrate_us <- vacc_us$secvaccrate_us
 vacc_us <- vacc_us[vacc_us$country == "United States",]
 vacc_us <- vacc_us[, c(3:NCOL(vacc_us))]
 
@@ -105,12 +105,11 @@ vacc_us <- vacc_us[, c(3:NCOL(vacc_us))]
 
 # --------------- Merge and melt dataset --------------- 
 
-full <- inner_join(divi, deaths, by =c("date"))
-full <- inner_join(full, inc, by =c("date"))
-full <- left_join(full, vacc_de, by =c("date"))
-full <- left_join(full, vacc_us, by =c("date"))
+full <- inner_join(divi, deaths, by = c("date"))
+full <- inner_join(full, inc, by = c("date"))
+full <- left_join(full, vacc_de, by = c("date"))
+full <- left_join(full, vacc_us, by = c("date"))
 full.long <- melt(full, id.vars = "date", value.name = "val")
-
 
 
 # --------------- Graphs --------------- 
@@ -170,11 +169,11 @@ graph <- ggplot() +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "secvaccrate_us",], 
                   size = 3.5, fontface = "bold", color = "gray52", nudge_x = 1, 
-                  nudge_y = 1, segment.colour = "transparent") +
+                  segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "covidp",], 
                   size = 3.5, fontface = "bold", color = "dodgerblue3", nudge_x = 1, 
-                  segment.colour = "transparent") +
+                  nudge_y = 1, segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "noncovidp",], 
                   size = 3.5, fontface = "bold", color = "steelblue2", nudge_x = 1, 
