@@ -42,7 +42,7 @@ divi$covidp <- ma(divi$covidp)
 divi$freep <- 100 - divi$usedp
 divi$noncovidp <- divi$usedp - divi$covidp
 
-divi <- divi[divi$date >= ymd("2020-10-01"), ]
+divi <- divi[divi$date >= ymd("2020-10-15"), ]
 divi <- divi[,c ("date", "freep", "noncovidp", "covidp")]
 
 
@@ -172,7 +172,7 @@ graph <- ggplot() +
                   segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "covidp",], 
-                  size = 3.5, fontface = "bold", color = "dodgerblue3", nudge_x = 1, 
+                  size = 3.5, fontface = "bold", color = "dodgerblue3", nudge_x = -1, 
                   nudge_y = 1, segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "noncovidp",], 

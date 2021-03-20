@@ -2,7 +2,7 @@ Covid-19 Situation in Germany
 ================
 
 ### Current Situation in One Graph
-Last reported data is from **March 10th**.
+Last reported data is from **March 19th**.
 
 ![](onepicture.png)
 
