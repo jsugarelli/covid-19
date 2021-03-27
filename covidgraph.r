@@ -161,7 +161,7 @@ graph <- ggplot() +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val/coeff1), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "newdeaths",], 
                   size = 3.5, fontface = "bold", color = "red2", nudge_x = 1, 
-                  segment.colour = "transparent") +
+                  nudge_y = 1, segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val), 
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "secvaccrate_de",], 
                   size = 3.5, fontface = "bold", color = "springgreen3", nudge_x = 1,

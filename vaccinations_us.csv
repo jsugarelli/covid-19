@@ -42,6 +42,13 @@ Africa,,2021-03-16,0.16
 Africa,,2021-03-17,0.17
 Africa,,2021-03-18,0.17
 Africa,,2021-03-19,0.19
+Africa,,2021-03-20,0.2
+Africa,,2021-03-21,0.2
+Africa,,2021-03-22,0.2
+Africa,,2021-03-23,0.21
+Africa,,2021-03-24,0.23
+Africa,,2021-03-25,0.25
+Africa,,2021-03-26,0.26
 Albania,ALB,2021-02-02,0
 Albania,ALB,2021-02-09,0.02
 Albania,ALB,2021-02-17,0.02
@@ -49,6 +56,7 @@ Albania,ALB,2021-02-18,0.02
 Albania,ALB,2021-02-22,0.02
 Andorra,AND,2021-03-08,1.52
 Andorra,AND,2021-03-10,1.64
+Andorra,AND,2021-03-15,1.64
 Argentina,ARG,2021-01-20,0.01
 Argentina,ARG,2021-01-21,0.04
 Argentina,ARG,2021-01-22,0.06
@@ -104,6 +112,13 @@ Argentina,ARG,2021-03-16,1.06
 Argentina,ARG,2021-03-17,1.1
 Argentina,ARG,2021-03-18,1.14
 Argentina,ARG,2021-03-19,1.23
+Argentina,ARG,2021-03-20,1.31
+Argentina,ARG,2021-03-21,1.34
+Argentina,ARG,2021-03-22,1.34
+Argentina,ARG,2021-03-23,1.38
+Argentina,ARG,2021-03-24,1.4
+Argentina,ARG,2021-03-25,1.41
+Argentina,ARG,2021-03-26,1.44
 Asia,,2021-01-04,0
 Asia,,2021-01-05,0
 Asia,,2021-01-06,0
@@ -179,6 +194,13 @@ Asia,,2021-03-16,0.41
 Asia,,2021-03-17,0.43
 Asia,,2021-03-18,0.44
 Asia,,2021-03-19,0.47
+Asia,,2021-03-20,0.48
+Asia,,2021-03-21,0.48
+Asia,,2021-03-22,0.5
+Asia,,2021-03-23,0.52
+Asia,,2021-03-24,0.53
+Asia,,2021-03-25,0.55
+Asia,,2021-03-26,0.56
 Austria,AUT,2021-01-15,0
 Austria,AUT,2021-01-16,0
 Austria,AUT,2021-01-17,0
@@ -197,51 +219,59 @@ Austria,AUT,2021-01-29,0.2
 Austria,AUT,2021-01-30,0.23
 Austria,AUT,2021-01-31,0.24
 Austria,AUT,2021-02-01,0.27
-Austria,AUT,2021-02-02,0.42
-Austria,AUT,2021-02-03,0.58
+Austria,AUT,2021-02-02,0.43
+Austria,AUT,2021-02-03,0.59
 Austria,AUT,2021-02-04,0.77
-Austria,AUT,2021-02-05,0.95
+Austria,AUT,2021-02-05,0.96
 Austria,AUT,2021-02-06,1.02
-Austria,AUT,2021-02-07,1.06
-Austria,AUT,2021-02-08,1.15
-Austria,AUT,2021-02-09,1.32
-Austria,AUT,2021-02-10,1.52
-Austria,AUT,2021-02-11,1.73
-Austria,AUT,2021-02-12,1.93
-Austria,AUT,2021-02-13,1.98
-Austria,AUT,2021-02-14,2
-Austria,AUT,2021-02-15,2.03
-Austria,AUT,2021-02-16,2.11
-Austria,AUT,2021-02-17,2.22
-Austria,AUT,2021-02-18,2.31
-Austria,AUT,2021-02-19,2.4
-Austria,AUT,2021-02-20,2.42
-Austria,AUT,2021-02-21,2.42
-Austria,AUT,2021-02-22,2.44
-Austria,AUT,2021-02-23,2.49
-Austria,AUT,2021-02-24,2.53
-Austria,AUT,2021-02-25,2.57
-Austria,AUT,2021-02-26,2.62
-Austria,AUT,2021-02-27,2.64
-Austria,AUT,2021-02-28,2.64
-Austria,AUT,2021-03-01,2.65
-Austria,AUT,2021-03-02,2.68
-Austria,AUT,2021-03-03,2.7
-Austria,AUT,2021-03-04,2.73
-Austria,AUT,2021-03-05,2.76
-Austria,AUT,2021-03-06,2.79
-Austria,AUT,2021-03-07,2.8
-Austria,AUT,2021-03-08,2.81
-Austria,AUT,2021-03-09,2.85
-Austria,AUT,2021-03-10,2.9
-Austria,AUT,2021-03-11,2.96
-Austria,AUT,2021-03-12,3.01
-Austria,AUT,2021-03-13,3.07
-Austria,AUT,2021-03-14,3.12
-Austria,AUT,2021-03-15,3.14
-Austria,AUT,2021-03-16,3.21
-Austria,AUT,2021-03-17,3.29
-Austria,AUT,2021-03-18,3.37
+Austria,AUT,2021-02-07,1.07
+Austria,AUT,2021-02-08,1.16
+Austria,AUT,2021-02-09,1.33
+Austria,AUT,2021-02-10,1.53
+Austria,AUT,2021-02-11,1.74
+Austria,AUT,2021-02-12,1.94
+Austria,AUT,2021-02-13,2
+Austria,AUT,2021-02-14,2.02
+Austria,AUT,2021-02-15,2.05
+Austria,AUT,2021-02-16,2.13
+Austria,AUT,2021-02-17,2.24
+Austria,AUT,2021-02-18,2.33
+Austria,AUT,2021-02-19,2.42
+Austria,AUT,2021-02-20,2.44
+Austria,AUT,2021-02-21,2.44
+Austria,AUT,2021-02-22,2.46
+Austria,AUT,2021-02-23,2.51
+Austria,AUT,2021-02-24,2.55
+Austria,AUT,2021-02-25,2.59
+Austria,AUT,2021-02-26,2.64
+Austria,AUT,2021-02-27,2.66
+Austria,AUT,2021-02-28,2.66
+Austria,AUT,2021-03-01,2.67
+Austria,AUT,2021-03-02,2.7
+Austria,AUT,2021-03-03,2.72
+Austria,AUT,2021-03-04,2.75
+Austria,AUT,2021-03-05,2.79
+Austria,AUT,2021-03-06,2.81
+Austria,AUT,2021-03-07,2.82
+Austria,AUT,2021-03-08,2.83
+Austria,AUT,2021-03-09,2.87
+Austria,AUT,2021-03-10,2.92
+Austria,AUT,2021-03-11,2.98
+Austria,AUT,2021-03-12,3.04
+Austria,AUT,2021-03-13,3.1
+Austria,AUT,2021-03-14,3.15
+Austria,AUT,2021-03-15,3.17
+Austria,AUT,2021-03-16,3.24
+Austria,AUT,2021-03-17,3.33
+Austria,AUT,2021-03-18,3.41
+Austria,AUT,2021-03-19,3.5
+Austria,AUT,2021-03-20,3.6
+Austria,AUT,2021-03-21,3.64
+Austria,AUT,2021-03-22,3.67
+Austria,AUT,2021-03-23,3.84
+Austria,AUT,2021-03-24,4.02
+Austria,AUT,2021-03-25,4.19
+Austria,AUT,2021-03-26,4.37
 Bahrain,BHR,2021-03-06,11.72
 Bahrain,BHR,2021-03-07,11.84
 Bahrain,BHR,2021-03-08,11.91
@@ -256,6 +286,13 @@ Bahrain,BHR,2021-03-16,12.89
 Bahrain,BHR,2021-03-17,13.08
 Bahrain,BHR,2021-03-18,13.37
 Bahrain,BHR,2021-03-19,13.54
+Bahrain,BHR,2021-03-20,13.68
+Bahrain,BHR,2021-03-21,13.86
+Bahrain,BHR,2021-03-22,14.04
+Bahrain,BHR,2021-03-23,14.14
+Bahrain,BHR,2021-03-24,14.23
+Bahrain,BHR,2021-03-25,14.34
+Bahrain,BHR,2021-03-26,14.43
 Belarus,BLR,2021-03-12,0.11
 Belgium,BEL,2021-01-18,0
 Belgium,BEL,2021-01-19,0
@@ -269,7 +306,7 @@ Belgium,BEL,2021-01-26,0.02
 Belgium,BEL,2021-01-27,0.05
 Belgium,BEL,2021-01-28,0.11
 Belgium,BEL,2021-01-29,0.19
-Belgium,BEL,2021-01-30,0.21
+Belgium,BEL,2021-01-30,0.22
 Belgium,BEL,2021-01-31,0.22
 Belgium,BEL,2021-02-01,0.25
 Belgium,BEL,2021-02-02,0.37
@@ -279,44 +316,51 @@ Belgium,BEL,2021-02-05,0.94
 Belgium,BEL,2021-02-06,0.99
 Belgium,BEL,2021-02-07,1.01
 Belgium,BEL,2021-02-08,1.08
-Belgium,BEL,2021-02-09,1.24
-Belgium,BEL,2021-02-10,1.4
+Belgium,BEL,2021-02-09,1.25
+Belgium,BEL,2021-02-10,1.41
 Belgium,BEL,2021-02-11,1.65
 Belgium,BEL,2021-02-12,1.88
 Belgium,BEL,2021-02-13,1.95
 Belgium,BEL,2021-02-14,1.97
 Belgium,BEL,2021-02-15,2.07
-Belgium,BEL,2021-02-16,2.15
-Belgium,BEL,2021-02-17,2.26
-Belgium,BEL,2021-02-18,2.4
-Belgium,BEL,2021-02-19,2.51
+Belgium,BEL,2021-02-16,2.16
+Belgium,BEL,2021-02-17,2.27
+Belgium,BEL,2021-02-18,2.41
+Belgium,BEL,2021-02-19,2.52
 Belgium,BEL,2021-02-20,2.53
 Belgium,BEL,2021-02-21,2.53
-Belgium,BEL,2021-02-22,2.55
+Belgium,BEL,2021-02-22,2.56
 Belgium,BEL,2021-02-23,2.62
 Belgium,BEL,2021-02-24,2.69
-Belgium,BEL,2021-02-25,2.76
+Belgium,BEL,2021-02-25,2.77
 Belgium,BEL,2021-02-26,2.82
-Belgium,BEL,2021-02-27,2.82
+Belgium,BEL,2021-02-27,2.83
 Belgium,BEL,2021-02-28,2.83
-Belgium,BEL,2021-03-01,2.85
+Belgium,BEL,2021-03-01,2.86
 Belgium,BEL,2021-03-02,2.91
-Belgium,BEL,2021-03-03,2.96
-Belgium,BEL,2021-03-04,3.03
-Belgium,BEL,2021-03-05,3.08
+Belgium,BEL,2021-03-03,2.97
+Belgium,BEL,2021-03-04,3.04
+Belgium,BEL,2021-03-05,3.09
 Belgium,BEL,2021-03-06,3.09
-Belgium,BEL,2021-03-07,3.09
-Belgium,BEL,2021-03-08,3.1
-Belgium,BEL,2021-03-09,3.16
-Belgium,BEL,2021-03-10,3.24
-Belgium,BEL,2021-03-11,3.32
-Belgium,BEL,2021-03-12,3.43
-Belgium,BEL,2021-03-13,3.44
-Belgium,BEL,2021-03-14,3.45
-Belgium,BEL,2021-03-15,3.48
-Belgium,BEL,2021-03-16,3.51
-Belgium,BEL,2021-03-17,3.56
-Belgium,BEL,2021-03-18,3.62
+Belgium,BEL,2021-03-07,3.1
+Belgium,BEL,2021-03-08,3.11
+Belgium,BEL,2021-03-09,3.17
+Belgium,BEL,2021-03-10,3.25
+Belgium,BEL,2021-03-11,3.33
+Belgium,BEL,2021-03-12,3.44
+Belgium,BEL,2021-03-13,3.46
+Belgium,BEL,2021-03-14,3.47
+Belgium,BEL,2021-03-15,3.51
+Belgium,BEL,2021-03-16,3.54
+Belgium,BEL,2021-03-17,3.61
+Belgium,BEL,2021-03-18,3.75
+Belgium,BEL,2021-03-19,3.9
+Belgium,BEL,2021-03-20,3.91
+Belgium,BEL,2021-03-21,3.92
+Belgium,BEL,2021-03-22,3.95
+Belgium,BEL,2021-03-23,3.99
+Belgium,BEL,2021-03-24,4.06
+Belgium,BEL,2021-03-25,4.13
 Bermuda,BMU,2021-02-06,2.55
 Bermuda,BMU,2021-02-09,2.57
 Bermuda,BMU,2021-02-22,7.66
@@ -324,6 +368,7 @@ Bermuda,BMU,2021-02-27,11.31
 Bermuda,BMU,2021-03-03,13.88
 Bermuda,BMU,2021-03-10,16.59
 Bermuda,BMU,2021-03-15,18.75
+Bermuda,BMU,2021-03-22,21.12
 Bolivia,BOL,2021-03-02,0.08
 Bolivia,BOL,2021-03-03,0.08
 Bolivia,BOL,2021-03-04,0.08
@@ -342,6 +387,12 @@ Bolivia,BOL,2021-03-16,0.09
 Bolivia,BOL,2021-03-17,0.09
 Bolivia,BOL,2021-03-18,0.1
 Bolivia,BOL,2021-03-19,0.15
+Bolivia,BOL,2021-03-20,0.16
+Bolivia,BOL,2021-03-21,0.17
+Bolivia,BOL,2021-03-22,0.24
+Bolivia,BOL,2021-03-23,0.36
+Bolivia,BOL,2021-03-24,0.49
+Bolivia,BOL,2021-03-25,0.61
 Brazil,BRA,2021-02-06,0
 Brazil,BRA,2021-02-07,0.01
 Brazil,BRA,2021-02-08,0.01
@@ -379,6 +430,13 @@ Brazil,BRA,2021-03-15,1.4
 Brazil,BRA,2021-03-17,1.52
 Brazil,BRA,2021-03-18,1.55
 Brazil,BRA,2021-03-19,1.58
+Brazil,BRA,2021-03-20,1.59
+Brazil,BRA,2021-03-21,1.6
+Brazil,BRA,2021-03-22,1.65
+Brazil,BRA,2021-03-23,1.72
+Brazil,BRA,2021-03-24,1.79
+Brazil,BRA,2021-03-25,1.84
+Brazil,BRA,2021-03-26,1.87
 Bulgaria,BGR,2021-01-18,0.02
 Bulgaria,BGR,2021-01-19,0.05
 Bulgaria,BGR,2021-01-20,0.06
@@ -440,6 +498,13 @@ Bulgaria,BGR,2021-03-16,0.89
 Bulgaria,BGR,2021-03-17,0.92
 Bulgaria,BGR,2021-03-18,0.96
 Bulgaria,BGR,2021-03-19,1
+Bulgaria,BGR,2021-03-20,1.02
+Bulgaria,BGR,2021-03-21,1.03
+Bulgaria,BGR,2021-03-22,1.06
+Bulgaria,BGR,2021-03-23,1.13
+Bulgaria,BGR,2021-03-24,1.15
+Bulgaria,BGR,2021-03-25,1.2
+Bulgaria,BGR,2021-03-26,1.25
 Canada,CAN,2021-01-07,0.01
 Canada,CAN,2021-01-08,0.01
 Canada,CAN,2021-01-09,0.02
@@ -512,6 +577,13 @@ Canada,CAN,2021-03-16,1.6
 Canada,CAN,2021-03-17,1.62
 Canada,CAN,2021-03-18,1.63
 Canada,CAN,2021-03-19,1.65
+Canada,CAN,2021-03-20,1.66
+Canada,CAN,2021-03-21,1.67
+Canada,CAN,2021-03-22,1.68
+Canada,CAN,2021-03-23,1.69
+Canada,CAN,2021-03-24,1.7
+Canada,CAN,2021-03-25,1.72
+Canada,CAN,2021-03-26,1.74
 Cayman Islands,CYM,2021-02-04,4.86
 Cayman Islands,CYM,2021-02-09,7.26
 Cayman Islands,CYM,2021-02-10,7.87
@@ -526,6 +598,9 @@ Cayman Islands,CYM,2021-03-12,15.39
 Cayman Islands,CYM,2021-03-16,17.72
 Cayman Islands,CYM,2021-03-18,18.79
 Cayman Islands,CYM,2021-03-19,19.51
+Cayman Islands,CYM,2021-03-22,20.61
+Cayman Islands,CYM,2021-03-24,22.48
+Cayman Islands,CYM,2021-03-25,23.52
 Chile,CHL,2021-01-13,0.01
 Chile,CHL,2021-01-14,0.03
 Chile,CHL,2021-01-15,0.04
@@ -577,29 +652,41 @@ Chile,CHL,2021-03-01,0.3
 Chile,CHL,2021-03-02,0.36
 Chile,CHL,2021-03-03,1.17
 Chile,CHL,2021-03-04,2.03
-Chile,CHL,2021-03-05,2.87
+Chile,CHL,2021-03-05,2.88
 Chile,CHL,2021-03-06,3
 Chile,CHL,2021-03-07,3.04
-Chile,CHL,2021-03-08,4.15
-Chile,CHL,2021-03-09,5.39
-Chile,CHL,2021-03-10,6.77
-Chile,CHL,2021-03-11,8.05
-Chile,CHL,2021-03-12,9.21
-Chile,CHL,2021-03-13,9.35
-Chile,CHL,2021-03-14,9.37
-Chile,CHL,2021-03-15,10.79
-Chile,CHL,2021-03-16,12.06
-Chile,CHL,2021-03-17,13.18
-Chile,CHL,2021-03-18,14.14
-Chile,CHL,2021-03-19,14.91
-Colombia,COL,2021-03-11,0.02
-Colombia,COL,2021-03-12,0.05
+Chile,CHL,2021-03-08,4.16
+Chile,CHL,2021-03-09,5.4
+Chile,CHL,2021-03-10,6.78
+Chile,CHL,2021-03-11,8.06
+Chile,CHL,2021-03-12,9.22
+Chile,CHL,2021-03-13,9.36
+Chile,CHL,2021-03-14,9.38
+Chile,CHL,2021-03-15,10.8
+Chile,CHL,2021-03-16,12.07
+Chile,CHL,2021-03-17,13.2
+Chile,CHL,2021-03-18,14.17
+Chile,CHL,2021-03-19,14.98
+Chile,CHL,2021-03-20,15.04
+Chile,CHL,2021-03-21,15.04
+Chile,CHL,2021-03-22,15.68
+Chile,CHL,2021-03-23,16.15
+Chile,CHL,2021-03-24,16.49
+Chile,CHL,2021-03-25,16.77
+Chile,CHL,2021-03-26,17.02
 Colombia,COL,2021-03-13,0.07
 Colombia,COL,2021-03-14,0.08
 Colombia,COL,2021-03-15,0.09
 Colombia,COL,2021-03-16,0.09
 Colombia,COL,2021-03-17,0.1
 Colombia,COL,2021-03-18,0.11
+Colombia,COL,2021-03-19,0.11
+Colombia,COL,2021-03-20,0.11
+Colombia,COL,2021-03-21,0.11
+Colombia,COL,2021-03-22,0.12
+Colombia,COL,2021-03-23,0.12
+Colombia,COL,2021-03-24,0.15
+Colombia,COL,2021-03-25,0
 Costa Rica,CRI,2021-01-15,0
 Costa Rica,CRI,2021-01-18,0
 Costa Rica,CRI,2021-01-25,0.05
@@ -611,6 +698,8 @@ Costa Rica,CRI,2021-03-01,0.91
 Costa Rica,CRI,2021-03-08,1.04
 Costa Rica,CRI,2021-03-12,1.06
 Costa Rica,CRI,2021-03-15,1.14
+Costa Rica,CRI,2021-03-22,2.09
+Costa Rica,CRI,2021-03-24,2.64
 Croatia,HRV,2021-01-25,0.29
 Croatia,HRV,2021-02-01,0.61
 Croatia,HRV,2021-02-03,0.7
@@ -627,6 +716,8 @@ Croatia,HRV,2021-03-04,1.46
 Croatia,HRV,2021-03-08,1.54
 Croatia,HRV,2021-03-12,1.65
 Croatia,HRV,2021-03-19,1.86
+Croatia,HRV,2021-03-22,1.93
+Croatia,HRV,2021-03-26,1.97
 Cyprus,CYP,2021-01-23,0.23
 Cyprus,CYP,2021-01-30,0.63
 Cyprus,CYP,2021-02-06,1.14
@@ -635,7 +726,7 @@ Cyprus,CYP,2021-02-20,2.19
 Cyprus,CYP,2021-02-23,2.32
 Cyprus,CYP,2021-02-26,2.58
 Cyprus,CYP,2021-03-07,3.28
-Cyprus,CYP,2021-03-12,3.65
+Cyprus,CYP,2021-03-20,4.11
 Czechia,CZE,2021-01-17,0.01
 Czechia,CZE,2021-01-18,0.02
 Czechia,CZE,2021-01-19,0.05
@@ -680,29 +771,36 @@ Czechia,CZE,2021-02-26,2.25
 Czechia,CZE,2021-02-27,2.26
 Czechia,CZE,2021-02-28,2.26
 Czechia,CZE,2021-03-01,2.29
-Czechia,CZE,2021-03-02,2.32
+Czechia,CZE,2021-03-02,2.33
 Czechia,CZE,2021-03-03,2.37
 Czechia,CZE,2021-03-04,2.41
 Czechia,CZE,2021-03-05,2.46
-Czechia,CZE,2021-03-06,2.46
-Czechia,CZE,2021-03-07,2.47
+Czechia,CZE,2021-03-06,2.47
+Czechia,CZE,2021-03-07,2.48
 Czechia,CZE,2021-03-08,2.52
-Czechia,CZE,2021-03-09,2.57
+Czechia,CZE,2021-03-09,2.58
 Czechia,CZE,2021-03-10,2.64
-Czechia,CZE,2021-03-11,2.71
-Czechia,CZE,2021-03-12,2.79
-Czechia,CZE,2021-03-13,2.8
-Czechia,CZE,2021-03-14,2.81
-Czechia,CZE,2021-03-15,2.89
-Czechia,CZE,2021-03-16,2.99
+Czechia,CZE,2021-03-11,2.72
+Czechia,CZE,2021-03-12,2.8
+Czechia,CZE,2021-03-13,2.81
+Czechia,CZE,2021-03-14,2.82
+Czechia,CZE,2021-03-15,2.9
+Czechia,CZE,2021-03-16,3
 Czechia,CZE,2021-03-17,3.09
-Czechia,CZE,2021-03-18,3.2
-Czechia,CZE,2021-03-19,3.31
+Czechia,CZE,2021-03-18,3.21
+Czechia,CZE,2021-03-19,3.33
+Czechia,CZE,2021-03-20,3.35
+Czechia,CZE,2021-03-21,3.37
+Czechia,CZE,2021-03-22,3.48
+Czechia,CZE,2021-03-23,3.6
+Czechia,CZE,2021-03-24,3.75
+Czechia,CZE,2021-03-25,3.91
+Czechia,CZE,2021-03-26,4.07
 Denmark,DNK,2021-01-15,0
 Denmark,DNK,2021-01-16,0
 Denmark,DNK,2021-01-17,0.01
 Denmark,DNK,2021-01-18,0.05
-Denmark,DNK,2021-01-19,0.09
+Denmark,DNK,2021-01-19,0.08
 Denmark,DNK,2021-01-20,0.12
 Denmark,DNK,2021-01-21,0.16
 Denmark,DNK,2021-01-22,0.26
@@ -712,14 +810,14 @@ Denmark,DNK,2021-01-25,0.53
 Denmark,DNK,2021-01-26,0.56
 Denmark,DNK,2021-01-27,0.64
 Denmark,DNK,2021-01-28,0.78
-Denmark,DNK,2021-01-29,1.09
+Denmark,DNK,2021-01-29,1.1
 Denmark,DNK,2021-01-30,1.32
 Denmark,DNK,2021-01-31,1.53
-Denmark,DNK,2021-02-01,1.66
+Denmark,DNK,2021-02-01,1.67
 Denmark,DNK,2021-02-02,1.72
-Denmark,DNK,2021-02-03,1.82
+Denmark,DNK,2021-02-03,1.83
 Denmark,DNK,2021-02-04,2.01
-Denmark,DNK,2021-02-05,2.24
+Denmark,DNK,2021-02-05,2.25
 Denmark,DNK,2021-02-06,2.36
 Denmark,DNK,2021-02-07,2.42
 Denmark,DNK,2021-02-08,2.55
@@ -743,25 +841,31 @@ Denmark,DNK,2021-02-25,3.12
 Denmark,DNK,2021-02-26,3.14
 Denmark,DNK,2021-02-27,3.16
 Denmark,DNK,2021-02-28,3.19
-Denmark,DNK,2021-03-01,3.2
+Denmark,DNK,2021-03-01,3.21
 Denmark,DNK,2021-03-02,3.23
-Denmark,DNK,2021-03-03,3.24
+Denmark,DNK,2021-03-03,3.25
 Denmark,DNK,2021-03-04,3.28
 Denmark,DNK,2021-03-05,3.37
 Denmark,DNK,2021-03-06,3.44
 Denmark,DNK,2021-03-07,3.52
 Denmark,DNK,2021-03-08,3.63
-Denmark,DNK,2021-03-09,3.75
+Denmark,DNK,2021-03-09,3.76
 Denmark,DNK,2021-03-10,3.88
 Denmark,DNK,2021-03-11,4.02
 Denmark,DNK,2021-03-12,4.2
 Denmark,DNK,2021-03-13,4.31
 Denmark,DNK,2021-03-14,4.47
 Denmark,DNK,2021-03-15,4.64
-Denmark,DNK,2021-03-16,4.8
-Denmark,DNK,2021-03-17,4.96
-Denmark,DNK,2021-03-18,5.08
-Denmark,DNK,2021-03-19,5.08
+Denmark,DNK,2021-03-16,4.81
+Denmark,DNK,2021-03-17,4.97
+Denmark,DNK,2021-03-18,5.09
+Denmark,DNK,2021-03-19,5.3
+Denmark,DNK,2021-03-20,5.38
+Denmark,DNK,2021-03-21,5.46
+Denmark,DNK,2021-03-22,5.6
+Denmark,DNK,2021-03-23,5.73
+Denmark,DNK,2021-03-24,5.96
+Denmark,DNK,2021-03-25,6.1
 Ecuador,ECU,2021-02-17,0.01
 Ecuador,ECU,2021-02-24,0.02
 Ecuador,ECU,2021-03-01,0.04
@@ -773,6 +877,9 @@ Ecuador,ECU,2021-03-11,0.04
 Ecuador,ECU,2021-03-12,0.04
 Ecuador,ECU,2021-03-13,0.11
 Ecuador,ECU,2021-03-15,0.11
+Ecuador,ECU,2021-03-21,0.22
+Ecuador,ECU,2021-03-23,0.22
+Ecuador,ECU,2021-03-24,0.22
 England,,2021-01-03,0.04
 England,,2021-01-10,0.67
 England,,2021-01-11,0.7
@@ -842,6 +949,13 @@ England,,2021-03-15,2.06
 England,,2021-03-16,2.18
 England,,2021-03-17,2.34
 England,,2021-03-18,2.52
+England,,2021-03-19,2.7
+England,,2021-03-20,2.83
+England,,2021-03-21,2.88
+England,,2021-03-22,3
+England,,2021-03-23,3.23
+England,,2021-03-24,3.6
+England,,2021-03-25,3.96
 Equatorial Guinea,GNQ,2021-03-16,0.06
 Estonia,EST,2021-01-28,0.47
 Estonia,EST,2021-01-29,0.57
@@ -887,6 +1001,12 @@ Estonia,EST,2021-03-16,3.99
 Estonia,EST,2021-03-17,4.05
 Estonia,EST,2021-03-18,4.07
 Estonia,EST,2021-03-19,4.13
+Estonia,EST,2021-03-20,4.29
+Estonia,EST,2021-03-21,4.3
+Estonia,EST,2021-03-22,4.3
+Estonia,EST,2021-03-23,4.34
+Estonia,EST,2021-03-24,4.35
+Estonia,EST,2021-03-25,4.38
 Europe,,2021-01-03,0
 Europe,,2021-01-04,0
 Europe,,2021-01-05,0
@@ -895,7 +1015,7 @@ Europe,,2021-01-07,0
 Europe,,2021-01-08,0
 Europe,,2021-01-09,0
 Europe,,2021-01-10,0.05
-Europe,,2021-01-11,0.06
+Europe,,2021-01-11,0.05
 Europe,,2021-01-12,0.06
 Europe,,2021-01-13,0.06
 Europe,,2021-01-14,0.06
@@ -928,14 +1048,14 @@ Europe,,2021-02-09,0.85
 Europe,,2021-02-10,1.14
 Europe,,2021-02-11,1.21
 Europe,,2021-02-12,1.27
-Europe,,2021-02-13,1.29
+Europe,,2021-02-13,1.3
 Europe,,2021-02-14,1.36
 Europe,,2021-02-15,1.4
 Europe,,2021-02-16,1.44
 Europe,,2021-02-17,1.5
 Europe,,2021-02-18,1.56
 Europe,,2021-02-19,1.6
-Europe,,2021-02-20,1.62
+Europe,,2021-02-20,1.63
 Europe,,2021-02-21,1.66
 Europe,,2021-02-22,1.69
 Europe,,2021-02-23,1.77
@@ -947,22 +1067,33 @@ Europe,,2021-02-28,1.98
 Europe,,2021-03-01,1.93
 Europe,,2021-03-02,1.97
 Europe,,2021-03-03,2.04
-Europe,,2021-03-04,2.12
+Europe,,2021-03-04,2.13
 Europe,,2021-03-05,2.19
-Europe,,2021-03-06,2.23
+Europe,,2021-03-06,2.24
 Europe,,2021-03-07,2.28
 Europe,,2021-03-08,2.32
-Europe,,2021-03-09,2.36
+Europe,,2021-03-09,2.37
 Europe,,2021-03-10,2.46
 Europe,,2021-03-11,2.56
 Europe,,2021-03-12,2.64
 Europe,,2021-03-13,2.69
-Europe,,2021-03-14,2.73
+Europe,,2021-03-14,2.74
 Europe,,2021-03-15,2.79
 Europe,,2021-03-16,2.84
-Europe,,2021-03-17,2.95
+Europe,,2021-03-17,2.96
 Europe,,2021-03-18,3.04
-Europe,,2021-03-19,3.08
+Europe,,2021-03-19,3.14
+Europe,,2021-03-20,3.2
+Europe,,2021-03-21,3.25
+Europe,,2021-03-22,3.54
+Europe,,2021-03-23,3.62
+Europe,,2021-03-24,3.73
+Europe,,2021-03-25,3.83
+Europe,,2021-03-26,3.9
+European Union,,2021-01-10,0
+European Union,,2021-01-11,0
+European Union,,2021-01-12,0
+European Union,,2021-01-13,0
 European Union,,2021-01-14,0
 European Union,,2021-01-15,0
 European Union,,2021-01-16,0
@@ -993,10 +1124,10 @@ European Union,,2021-02-09,1.3
 European Union,,2021-02-10,1.38
 European Union,,2021-02-11,1.5
 European Union,,2021-02-12,1.58
-European Union,,2021-02-13,1.62
-European Union,,2021-02-14,1.69
+European Union,,2021-02-13,1.63
+European Union,,2021-02-14,1.7
 European Union,,2021-02-15,1.76
-European Union,,2021-02-16,1.82
+European Union,,2021-02-16,1.83
 European Union,,2021-02-17,1.91
 European Union,,2021-02-18,2
 European Union,,2021-02-19,2.07
@@ -1006,11 +1137,11 @@ European Union,,2021-02-22,2.21
 European Union,,2021-02-23,2.26
 European Union,,2021-02-24,2.33
 European Union,,2021-02-25,2.39
-European Union,,2021-02-26,2.46
+European Union,,2021-02-26,2.47
 European Union,,2021-02-27,2.49
 European Union,,2021-02-28,2.55
 European Union,,2021-03-01,2.59
-European Union,,2021-03-02,2.63
+European Union,,2021-03-02,2.64
 European Union,,2021-03-03,2.71
 European Union,,2021-03-04,2.8
 European Union,,2021-03-05,2.86
@@ -1022,12 +1153,19 @@ European Union,,2021-03-10,3.14
 European Union,,2021-03-11,3.25
 European Union,,2021-03-12,3.33
 European Union,,2021-03-13,3.37
-European Union,,2021-03-14,3.41
-European Union,,2021-03-15,3.49
-European Union,,2021-03-16,3.55
-European Union,,2021-03-17,3.64
-European Union,,2021-03-18,3.74
-European Union,,2021-03-19,3.78
+European Union,,2021-03-14,3.42
+European Union,,2021-03-15,3.5
+European Union,,2021-03-16,3.56
+European Union,,2021-03-17,3.65
+European Union,,2021-03-18,3.75
+European Union,,2021-03-19,3.83
+European Union,,2021-03-20,3.91
+European Union,,2021-03-21,3.96
+European Union,,2021-03-22,4.07
+European Union,,2021-03-23,4.17
+European Union,,2021-03-24,4.28
+European Union,,2021-03-25,4.4
+European Union,,2021-03-26,4.52
 Faeroe Islands,FRO,2021-01-29,0
 Faeroe Islands,FRO,2021-02-06,1.24
 Faeroe Islands,FRO,2021-02-08,1.4
@@ -1044,6 +1182,8 @@ Faeroe Islands,FRO,2021-03-12,8.04
 Faeroe Islands,FRO,2021-03-16,8.14
 Faeroe Islands,FRO,2021-03-17,8.18
 Faeroe Islands,FRO,2021-03-18,8.25
+Faeroe Islands,FRO,2021-03-22,8.27
+Faeroe Islands,FRO,2021-03-26,8.34
 Finland,FIN,2021-01-25,0.08
 Finland,FIN,2021-01-26,0.13
 Finland,FIN,2021-01-27,0.17
@@ -1093,6 +1233,13 @@ Finland,FIN,2021-03-16,1.56
 Finland,FIN,2021-03-17,1.57
 Finland,FIN,2021-03-18,1.57
 Finland,FIN,2021-03-19,1.58
+Finland,FIN,2021-03-20,1.58
+Finland,FIN,2021-03-21,1.58
+Finland,FIN,2021-03-22,1.58
+Finland,FIN,2021-03-23,1.58
+Finland,FIN,2021-03-24,1.58
+Finland,FIN,2021-03-25,1.58
+Finland,FIN,2021-03-26,1.59
 France,FRA,2021-01-26,0.01
 France,FRA,2021-01-27,0.02
 France,FRA,2021-01-28,0.04
@@ -1143,6 +1290,12 @@ France,FRA,2021-03-13,3.26
 France,FRA,2021-03-14,3.26
 France,FRA,2021-03-15,3.31
 France,FRA,2021-03-17,3.37
+France,FRA,2021-03-20,3.56
+France,FRA,2021-03-21,3.57
+France,FRA,2021-03-22,3.62
+France,FRA,2021-03-23,3.68
+France,FRA,2021-03-24,3.74
+France,FRA,2021-03-25,3.81
 Germany,DEU,2021-01-14,0
 Germany,DEU,2021-01-15,0
 Germany,DEU,2021-01-16,0
@@ -1163,7 +1316,7 @@ Germany,DEU,2021-01-30,0.65
 Germany,DEU,2021-01-31,0.69
 Germany,DEU,2021-02-01,0.77
 Germany,DEU,2021-02-02,0.85
-Germany,DEU,2021-02-03,0.96
+Germany,DEU,2021-02-03,0.95
 Germany,DEU,2021-02-04,1.04
 Germany,DEU,2021-02-05,1.13
 Germany,DEU,2021-02-06,1.2
@@ -1171,42 +1324,50 @@ Germany,DEU,2021-02-07,1.23
 Germany,DEU,2021-02-08,1.29
 Germany,DEU,2021-02-09,1.37
 Germany,DEU,2021-02-10,1.46
-Germany,DEU,2021-02-11,1.54
+Germany,DEU,2021-02-11,1.55
 Germany,DEU,2021-02-12,1.64
-Germany,DEU,2021-02-13,1.69
+Germany,DEU,2021-02-13,1.7
 Germany,DEU,2021-02-14,1.73
-Germany,DEU,2021-02-15,1.79
+Germany,DEU,2021-02-15,1.8
 Germany,DEU,2021-02-16,1.86
-Germany,DEU,2021-02-17,1.92
+Germany,DEU,2021-02-17,1.93
 Germany,DEU,2021-02-18,1.99
 Germany,DEU,2021-02-19,2.05
-Germany,DEU,2021-02-20,2.09
+Germany,DEU,2021-02-20,2.1
 Germany,DEU,2021-02-21,2.13
-Germany,DEU,2021-02-22,2.19
+Germany,DEU,2021-02-22,2.2
 Germany,DEU,2021-02-23,2.26
 Germany,DEU,2021-02-24,2.33
-Germany,DEU,2021-02-25,2.39
-Germany,DEU,2021-02-26,2.46
+Germany,DEU,2021-02-25,2.4
+Germany,DEU,2021-02-26,2.47
 Germany,DEU,2021-02-27,2.51
-Germany,DEU,2021-02-28,2.54
-Germany,DEU,2021-03-01,2.6
-Germany,DEU,2021-03-02,2.67
-Germany,DEU,2021-03-03,2.75
-Germany,DEU,2021-03-04,2.82
-Germany,DEU,2021-03-05,2.9
-Germany,DEU,2021-03-06,2.95
-Germany,DEU,2021-03-07,2.99
-Germany,DEU,2021-03-08,3.06
-Germany,DEU,2021-03-09,3.12
-Germany,DEU,2021-03-10,3.2
-Germany,DEU,2021-03-11,3.28
-Germany,DEU,2021-03-12,3.36
-Germany,DEU,2021-03-13,3.42
-Germany,DEU,2021-03-14,3.46
-Germany,DEU,2021-03-15,3.53
-Germany,DEU,2021-03-16,3.61
-Germany,DEU,2021-03-17,3.7
-Germany,DEU,2021-03-18,3.79
+Germany,DEU,2021-02-28,2.55
+Germany,DEU,2021-03-01,2.61
+Germany,DEU,2021-03-02,2.68
+Germany,DEU,2021-03-03,2.76
+Germany,DEU,2021-03-04,2.83
+Germany,DEU,2021-03-05,2.91
+Germany,DEU,2021-03-06,2.96
+Germany,DEU,2021-03-07,3.01
+Germany,DEU,2021-03-08,3.07
+Germany,DEU,2021-03-09,3.13
+Germany,DEU,2021-03-10,3.22
+Germany,DEU,2021-03-11,3.29
+Germany,DEU,2021-03-12,3.37
+Germany,DEU,2021-03-13,3.43
+Germany,DEU,2021-03-14,3.47
+Germany,DEU,2021-03-15,3.54
+Germany,DEU,2021-03-16,3.62
+Germany,DEU,2021-03-17,3.72
+Germany,DEU,2021-03-18,3.81
+Germany,DEU,2021-03-19,3.9
+Germany,DEU,2021-03-20,3.97
+Germany,DEU,2021-03-21,4.01
+Germany,DEU,2021-03-22,4.11
+Germany,DEU,2021-03-23,4.2
+Germany,DEU,2021-03-24,4.31
+Germany,DEU,2021-03-25,4.4
+Germany,DEU,2021-03-26,4.5
 Gibraltar,GIB,2021-01-31,1.19
 Gibraltar,GIB,2021-02-01,3.93
 Gibraltar,GIB,2021-02-02,6.89
@@ -1254,6 +1415,13 @@ Gibraltar,GIB,2021-03-16,55.29
 Gibraltar,GIB,2021-03-17,58.11
 Gibraltar,GIB,2021-03-18,59.8
 Gibraltar,GIB,2021-03-19,63.07
+Gibraltar,GIB,2021-03-20,66.17
+Gibraltar,GIB,2021-03-21,68.42
+Gibraltar,GIB,2021-03-22,68.42
+Gibraltar,GIB,2021-03-23,70.32
+Gibraltar,GIB,2021-03-24,72.29
+Gibraltar,GIB,2021-03-25,74.82
+Gibraltar,GIB,2021-03-26,76.39
 Greece,GRC,2021-01-16,0
 Greece,GRC,2021-01-18,0
 Greece,GRC,2021-01-19,0.01
@@ -1309,11 +1477,18 @@ Greece,GRC,2021-03-16,4.04
 Greece,GRC,2021-03-17,4.13
 Greece,GRC,2021-03-18,4.23
 Greece,GRC,2021-03-19,4.32
+Greece,GRC,2021-03-20,4.41
+Greece,GRC,2021-03-22,4.52
+Greece,GRC,2021-03-23,4.65
+Greece,GRC,2021-03-24,4.81
+Greece,GRC,2021-03-25,4.81
+Greece,GRC,2021-03-26,5.05
 Greenland,GRL,2021-03-01,2.12
 Guernsey,GGY,2021-01-24,0.78
 Guernsey,GGY,2021-02-07,4.61
 Guernsey,GGY,2021-02-14,7.96
 Guernsey,GGY,2021-03-12,11.76
+Hong Kong,HKG,2021-03-26,0.07
 Hungary,HUN,2021-01-18,0.02
 Hungary,HUN,2021-01-19,0.03
 Hungary,HUN,2021-01-20,0.04
@@ -1375,6 +1550,13 @@ Hungary,HUN,2021-03-16,4.21
 Hungary,HUN,2021-03-17,4.37
 Hungary,HUN,2021-03-18,4.6
 Hungary,HUN,2021-03-19,4.82
+Hungary,HUN,2021-03-20,4.92
+Hungary,HUN,2021-03-21,4.96
+Hungary,HUN,2021-03-22,4.99
+Hungary,HUN,2021-03-23,5.12
+Hungary,HUN,2021-03-24,5.43
+Hungary,HUN,2021-03-25,6.16
+Hungary,HUN,2021-03-26,6.91
 Iceland,ISL,2021-01-20,0.14
 Iceland,ISL,2021-01-25,1.4
 Iceland,ISL,2021-01-27,1.41
@@ -1402,6 +1584,11 @@ Iceland,ISL,2021-03-15,3.78
 Iceland,ISL,2021-03-17,3.96
 Iceland,ISL,2021-03-18,4.13
 Iceland,ISL,2021-03-19,4.32
+Iceland,ISL,2021-03-22,4.41
+Iceland,ISL,2021-03-23,4.95
+Iceland,ISL,2021-03-24,5.83
+Iceland,ISL,2021-03-25,5.96
+Iceland,ISL,2021-03-26,6.08
 India,IND,2021-02-13,0
 India,IND,2021-02-15,0.01
 India,IND,2021-02-16,0.02
@@ -1436,6 +1623,13 @@ India,IND,2021-03-16,0.45
 India,IND,2021-03-17,0.47
 India,IND,2021-03-18,0.5
 India,IND,2021-03-19,0.52
+India,IND,2021-03-20,0.54
+India,IND,2021-03-21,0.54
+India,IND,2021-03-22,0.57
+India,IND,2021-03-23,0.59
+India,IND,2021-03-24,0.6
+India,IND,2021-03-25,0.62
+India,IND,2021-03-26,0.63
 Indonesia,IDN,2021-01-28,0
 Indonesia,IDN,2021-01-29,0
 Indonesia,IDN,2021-01-30,0.01
@@ -1479,6 +1673,12 @@ Indonesia,IDN,2021-03-16,0.63
 Indonesia,IDN,2021-03-17,0.69
 Indonesia,IDN,2021-03-18,0.71
 Indonesia,IDN,2021-03-19,0.81
+Indonesia,IDN,2021-03-20,0.84
+Indonesia,IDN,2021-03-21,0.85
+Indonesia,IDN,2021-03-22,0.91
+Indonesia,IDN,2021-03-23,1.08
+Indonesia,IDN,2021-03-25,1.1
+Indonesia,IDN,2021-03-26,1.18
 Ireland,IRL,2021-01-27,0.28
 Ireland,IRL,2021-01-31,1
 Ireland,IRL,2021-02-05,1.61
@@ -1519,6 +1719,13 @@ Ireland,IRL,2021-03-13,3.33
 Ireland,IRL,2021-03-14,3.33
 Ireland,IRL,2021-03-15,3.35
 Ireland,IRL,2021-03-16,3.42
+Ireland,IRL,2021-03-17,3.47
+Ireland,IRL,2021-03-18,3.55
+Ireland,IRL,2021-03-19,3.67
+Ireland,IRL,2021-03-20,3.72
+Ireland,IRL,2021-03-21,3.73
+Ireland,IRL,2021-03-22,3.78
+Ireland,IRL,2021-03-23,3.92
 Isle of Man,IMN,2021-01-25,0.37
 Isle of Man,IMN,2021-01-26,0.75
 Isle of Man,IMN,2021-01-27,1.22
@@ -1576,28 +1783,28 @@ Israel,ISR,2021-01-09,0
 Israel,ISR,2021-01-10,0.07
 Israel,ISR,2021-01-11,0.29
 Israel,ISR,2021-01-12,0.7
-Israel,ISR,2021-01-13,1.36
+Israel,ISR,2021-01-13,1.35
 Israel,ISR,2021-01-14,2.15
-Israel,ISR,2021-01-15,2.57
-Israel,ISR,2021-01-16,2.87
-Israel,ISR,2021-01-17,3.84
-Israel,ISR,2021-01-18,5.23
-Israel,ISR,2021-01-19,6.82
+Israel,ISR,2021-01-15,2.56
+Israel,ISR,2021-01-16,2.86
+Israel,ISR,2021-01-17,3.83
+Israel,ISR,2021-01-18,5.22
+Israel,ISR,2021-01-19,6.81
 Israel,ISR,2021-01-20,8.47
-Israel,ISR,2021-01-21,10.37
+Israel,ISR,2021-01-21,10.36
 Israel,ISR,2021-01-22,11.18
-Israel,ISR,2021-01-23,11.8
-Israel,ISR,2021-01-24,13.42
-Israel,ISR,2021-01-25,15.03
+Israel,ISR,2021-01-23,11.79
+Israel,ISR,2021-01-24,13.41
+Israel,ISR,2021-01-25,15.02
 Israel,ISR,2021-01-26,16.48
 Israel,ISR,2021-01-27,17.92
-Israel,ISR,2021-01-28,19.43
+Israel,ISR,2021-01-28,19.42
 Israel,ISR,2021-01-29,20.17
-Israel,ISR,2021-01-30,20.67
+Israel,ISR,2021-01-30,20.66
 Israel,ISR,2021-01-31,21.35
-Israel,ISR,2021-02-01,21.76
+Israel,ISR,2021-02-01,21.75
 Israel,ISR,2021-02-02,22.11
-Israel,ISR,2021-02-03,22.71
+Israel,ISR,2021-02-03,22.7
 Israel,ISR,2021-02-04,23.37
 Israel,ISR,2021-02-05,23.7
 Israel,ISR,2021-02-06,23.96
@@ -1605,9 +1812,9 @@ Israel,ISR,2021-02-07,24.75
 Israel,ISR,2021-02-08,25.5
 Israel,ISR,2021-02-09,26.28
 Israel,ISR,2021-02-10,27.11
-Israel,ISR,2021-02-11,27.94
-Israel,ISR,2021-02-12,28.37
-Israel,ISR,2021-02-13,28.72
+Israel,ISR,2021-02-11,27.93
+Israel,ISR,2021-02-12,28.36
+Israel,ISR,2021-02-13,28.71
 Israel,ISR,2021-02-14,29.51
 Israel,ISR,2021-02-15,30.38
 Israel,ISR,2021-02-16,31.28
@@ -1626,22 +1833,29 @@ Israel,ISR,2021-02-28,39.2
 Israel,ISR,2021-03-01,39.9
 Israel,ISR,2021-03-02,40.65
 Israel,ISR,2021-03-03,41.41
-Israel,ISR,2021-03-04,42.3
-Israel,ISR,2021-03-05,42.76
-Israel,ISR,2021-03-06,43.06
-Israel,ISR,2021-03-07,43.89
-Israel,ISR,2021-03-08,44.73
-Israel,ISR,2021-03-09,45.62
-Israel,ISR,2021-03-10,46.29
-Israel,ISR,2021-03-11,47.09
-Israel,ISR,2021-03-12,47.56
-Israel,ISR,2021-03-13,47.85
-Israel,ISR,2021-03-14,48.7
-Israel,ISR,2021-03-15,49.6
-Israel,ISR,2021-03-16,50.42
-Israel,ISR,2021-03-17,51.1
-Israel,ISR,2021-03-18,51.77
-Israel,ISR,2021-03-19,51.98
+Israel,ISR,2021-03-04,42.32
+Israel,ISR,2021-03-05,42.79
+Israel,ISR,2021-03-06,43.08
+Israel,ISR,2021-03-07,43.92
+Israel,ISR,2021-03-08,44.76
+Israel,ISR,2021-03-09,45.64
+Israel,ISR,2021-03-10,46.32
+Israel,ISR,2021-03-11,47.11
+Israel,ISR,2021-03-12,47.59
+Israel,ISR,2021-03-13,47.88
+Israel,ISR,2021-03-14,48.73
+Israel,ISR,2021-03-15,49.63
+Israel,ISR,2021-03-16,50.45
+Israel,ISR,2021-03-17,51.13
+Israel,ISR,2021-03-18,51.8
+Israel,ISR,2021-03-19,52.12
+Israel,ISR,2021-03-20,52.3
+Israel,ISR,2021-03-21,52.75
+Israel,ISR,2021-03-22,53.19
+Israel,ISR,2021-03-23,53.28
+Israel,ISR,2021-03-24,53.8
+Israel,ISR,2021-03-25,54.19
+Israel,ISR,2021-03-26,54.31
 Italy,ITA,2021-01-17,0
 Italy,ITA,2021-01-18,0.01
 Italy,ITA,2021-01-19,0.02
@@ -1658,7 +1872,7 @@ Italy,ITA,2021-01-29,0.82
 Italy,ITA,2021-01-30,0.96
 Italy,ITA,2021-01-31,1.06
 Italy,ITA,2021-02-01,1.19
-Italy,ITA,2021-02-02,1.32
+Italy,ITA,2021-02-02,1.33
 Italy,ITA,2021-02-03,1.47
 Italy,ITA,2021-02-04,1.63
 Italy,ITA,2021-02-05,1.77
@@ -1678,10 +1892,10 @@ Italy,ITA,2021-02-18,2.21
 Italy,ITA,2021-02-19,2.22
 Italy,ITA,2021-02-20,2.22
 Italy,ITA,2021-02-21,2.23
-Italy,ITA,2021-02-22,2.23
+Italy,ITA,2021-02-22,2.24
 Italy,ITA,2021-02-23,2.24
 Italy,ITA,2021-02-24,2.26
-Italy,ITA,2021-02-25,2.27
+Italy,ITA,2021-02-25,2.28
 Italy,ITA,2021-02-26,2.3
 Italy,ITA,2021-02-27,2.32
 Italy,ITA,2021-02-28,2.33
@@ -1689,21 +1903,28 @@ Italy,ITA,2021-03-01,2.37
 Italy,ITA,2021-03-02,2.42
 Italy,ITA,2021-03-03,2.49
 Italy,ITA,2021-03-04,2.57
-Italy,ITA,2021-03-05,2.65
+Italy,ITA,2021-03-05,2.66
 Italy,ITA,2021-03-06,2.72
 Italy,ITA,2021-03-07,2.75
 Italy,ITA,2021-03-08,2.83
 Italy,ITA,2021-03-09,2.91
 Italy,ITA,2021-03-10,3
-Italy,ITA,2021-03-11,3.09
-Italy,ITA,2021-03-12,3.19
-Italy,ITA,2021-03-13,3.27
+Italy,ITA,2021-03-11,3.1
+Italy,ITA,2021-03-12,3.2
+Italy,ITA,2021-03-13,3.28
 Italy,ITA,2021-03-14,3.33
-Italy,ITA,2021-03-15,3.44
-Italy,ITA,2021-03-16,3.56
-Italy,ITA,2021-03-17,3.69
-Italy,ITA,2021-03-18,3.82
-Italy,ITA,2021-03-19,3.94
+Italy,ITA,2021-03-15,3.45
+Italy,ITA,2021-03-16,3.57
+Italy,ITA,2021-03-17,3.7
+Italy,ITA,2021-03-18,3.83
+Italy,ITA,2021-03-19,3.95
+Italy,ITA,2021-03-20,4.06
+Italy,ITA,2021-03-21,4.13
+Italy,ITA,2021-03-22,4.24
+Italy,ITA,2021-03-23,4.35
+Italy,ITA,2021-03-24,4.49
+Italy,ITA,2021-03-25,4.62
+Italy,ITA,2021-03-26,4.73
 Japan,JPN,2021-03-10,0
 Japan,JPN,2021-03-11,0
 Japan,JPN,2021-03-12,0
@@ -1712,6 +1933,11 @@ Japan,JPN,2021-03-16,0.01
 Japan,JPN,2021-03-17,0.01
 Japan,JPN,2021-03-18,0.01
 Japan,JPN,2021-03-19,0.02
+Japan,JPN,2021-03-22,0.02
+Japan,JPN,2021-03-23,0.03
+Japan,JPN,2021-03-24,0.03
+Japan,JPN,2021-03-25,0.03
+Japan,JPN,2021-03-26,0.03
 Jersey,JEY,2021-01-24,3.02
 Jersey,JEY,2021-01-31,3.1
 Jersey,JEY,2021-02-07,3.14
@@ -1721,9 +1947,13 @@ Jersey,JEY,2021-02-28,3.28
 Jersey,JEY,2021-03-07,3.34
 Jersey,JEY,2021-03-10,4.11
 Jersey,JEY,2021-03-14,5.56
+Jersey,JEY,2021-03-17,6.92
+Jersey,JEY,2021-03-21,9.03
 Jordan,JOR,2021-02-22,0.29
 Jordan,JOR,2021-03-15,0.47
 Jordan,JOR,2021-03-17,0.51
+Jordan,JOR,2021-03-21,0.62
+Jordan,JOR,2021-03-24,0.68
 Kazakhstan,KAZ,2021-02-24,0.01
 Kazakhstan,KAZ,2021-03-15,0.1
 Kazakhstan,KAZ,2021-03-18,0.1
@@ -1786,6 +2016,12 @@ Latvia,LVA,2021-03-16,0.97
 Latvia,LVA,2021-03-17,0.98
 Latvia,LVA,2021-03-18,0.99
 Latvia,LVA,2021-03-19,1
+Latvia,LVA,2021-03-21,1
+Latvia,LVA,2021-03-22,1.02
+Latvia,LVA,2021-03-23,1.04
+Latvia,LVA,2021-03-24,1.07
+Latvia,LVA,2021-03-25,1.11
+Latvia,LVA,2021-03-26,1.14
 Lebanon,LBN,2021-03-10,0.17
 Lebanon,LBN,2021-03-11,0.22
 Lebanon,LBN,2021-03-12,0.26
@@ -1794,6 +2030,13 @@ Lebanon,LBN,2021-03-16,0.43
 Lebanon,LBN,2021-03-17,0.48
 Lebanon,LBN,2021-03-18,0.56
 Lebanon,LBN,2021-03-19,0.63
+Lebanon,LBN,2021-03-20,0.63
+Lebanon,LBN,2021-03-21,0.65
+Lebanon,LBN,2021-03-22,0.73
+Lebanon,LBN,2021-03-23,0.82
+Lebanon,LBN,2021-03-24,0.89
+Lebanon,LBN,2021-03-25,0.96
+Lebanon,LBN,2021-03-26,1.01
 Lithuania,LTU,2021-01-17,0.04
 Lithuania,LTU,2021-01-18,0.1
 Lithuania,LTU,2021-01-19,0.25
@@ -1850,8 +2093,16 @@ Lithuania,LTU,2021-03-13,3.66
 Lithuania,LTU,2021-03-14,3.66
 Lithuania,LTU,2021-03-15,3.7
 Lithuania,LTU,2021-03-16,3.87
-Lithuania,LTU,2021-03-17,4.14
-Lithuania,LTU,2021-03-18,4.33
+Lithuania,LTU,2021-03-17,4.15
+Lithuania,LTU,2021-03-18,4.36
+Lithuania,LTU,2021-03-19,4.58
+Lithuania,LTU,2021-03-20,4.59
+Lithuania,LTU,2021-03-21,4.59
+Lithuania,LTU,2021-03-22,4.64
+Lithuania,LTU,2021-03-23,4.85
+Lithuania,LTU,2021-03-24,5.04
+Lithuania,LTU,2021-03-25,5.29
+Lithuania,LTU,2021-03-26,5.52
 Luxembourg,LUX,2021-01-25,0.2
 Luxembourg,LUX,2021-01-26,0.2
 Luxembourg,LUX,2021-01-27,0.21
@@ -1891,6 +2142,11 @@ Luxembourg,LUX,2021-03-15,2.53
 Luxembourg,LUX,2021-03-16,2.63
 Luxembourg,LUX,2021-03-17,2.71
 Luxembourg,LUX,2021-03-18,2.79
+Luxembourg,LUX,2021-03-21,2.86
+Luxembourg,LUX,2021-03-22,2.9
+Luxembourg,LUX,2021-03-23,2.99
+Luxembourg,LUX,2021-03-24,3.08
+Luxembourg,LUX,2021-03-25,3.17
 Malta,MLT,2021-01-24,0.27
 Malta,MLT,2021-01-25,0.33
 Malta,MLT,2021-01-26,0.38
@@ -1945,6 +2201,13 @@ Malta,MLT,2021-03-15,9.21
 Malta,MLT,2021-03-16,9.25
 Malta,MLT,2021-03-17,9.43
 Malta,MLT,2021-03-18,9.64
+Malta,MLT,2021-03-19,9.8
+Malta,MLT,2021-03-20,9.95
+Malta,MLT,2021-03-21,10.07
+Malta,MLT,2021-03-22,10.26
+Malta,MLT,2021-03-23,10.45
+Malta,MLT,2021-03-24,10.66
+Malta,MLT,2021-03-25,11.08
 Mexico,MEX,2021-01-15,0
 Mexico,MEX,2021-01-16,0
 Mexico,MEX,2021-01-17,0
@@ -2002,8 +2265,20 @@ Mexico,MEX,2021-03-14,0.47
 Mexico,MEX,2021-03-15,0.47
 Mexico,MEX,2021-03-17,0.49
 Mexico,MEX,2021-03-18,0.5
+Mexico,MEX,2021-03-20,0.54
+Mexico,MEX,2021-03-21,0.56
+Mexico,MEX,2021-03-22,0.57
+Mexico,MEX,2021-03-24,0.6
+Mexico,MEX,2021-03-25,0.61
+Mexico,MEX,2021-03-26,0.63
 Monaco,MCO,2021-03-04,18.25
+Monaco,MCO,2021-03-19,21.23
 Montenegro,MNE,2021-03-19,0.05
+Montenegro,MNE,2021-03-20,0.07
+Montenegro,MNE,2021-03-23,0.09
+Montenegro,MNE,2021-03-24,0.14
+Montenegro,MNE,2021-03-25,0.17
+Montenegro,MNE,2021-03-26,0.21
 Montserrat,MSR,2021-03-10,0.8
 Morocco,MAR,2021-02-19,0.01
 Morocco,MAR,2021-02-20,0.04
@@ -2029,6 +2304,12 @@ Morocco,MAR,2021-03-15,4.79
 Morocco,MAR,2021-03-16,5.31
 Morocco,MAR,2021-03-17,5.73
 Morocco,MAR,2021-03-19,6.37
+Morocco,MAR,2021-03-20,6.57
+Morocco,MAR,2021-03-22,6.82
+Morocco,MAR,2021-03-23,7.03
+Morocco,MAR,2021-03-24,7.71
+Morocco,MAR,2021-03-25,8.32
+Morocco,MAR,2021-03-26,8.76
 Netherlands,NLD,2021-01-31,0.09
 Netherlands,NLD,2021-02-07,0.39
 Netherlands,NLD,2021-02-14,0.9
@@ -2036,6 +2317,7 @@ Netherlands,NLD,2021-02-21,1.28
 Netherlands,NLD,2021-02-28,1.94
 Netherlands,NLD,2021-03-07,2.4
 Netherlands,NLD,2021-03-14,2.88
+Netherlands,NLD,2021-03-21,3.53
 North America,,2021-01-07,0
 North America,,2021-01-08,0
 North America,,2021-01-09,0
@@ -2108,75 +2390,90 @@ North America,,2021-03-16,6.81
 North America,,2021-03-17,6.98
 North America,,2021-03-18,7.15
 North America,,2021-03-19,7.31
+North America,,2021-03-20,7.51
+North America,,2021-03-21,7.7
+North America,,2021-03-22,7.84
+North America,,2021-03-23,7.94
+North America,,2021-03-24,8.1
+North America,,2021-03-25,8.28
+North America,,2021-03-26,8.5
+Northern Cyprus,OWID_CYN,2021-03-25,11.53
 Northern Ireland,,2021-01-03,0.07
-Northern Ireland,,2021-01-10,0.74
-Northern Ireland,,2021-01-11,0.81
-Northern Ireland,,2021-01-12,0.94
-Northern Ireland,,2021-01-13,1
-Northern Ireland,,2021-01-14,1.02
-Northern Ireland,,2021-01-15,1.03
-Northern Ireland,,2021-01-16,1.07
-Northern Ireland,,2021-01-17,1.11
-Northern Ireland,,2021-01-18,1.14
-Northern Ireland,,2021-01-19,1.16
-Northern Ireland,,2021-01-20,1.18
-Northern Ireland,,2021-01-21,1.19
-Northern Ireland,,2021-01-22,1.2
-Northern Ireland,,2021-01-23,1.2
-Northern Ireland,,2021-01-24,1.2
-Northern Ireland,,2021-01-25,1.2
-Northern Ireland,,2021-01-26,1.21
-Northern Ireland,,2021-01-27,1.26
-Northern Ireland,,2021-01-28,1.27
-Northern Ireland,,2021-01-29,1.28
-Northern Ireland,,2021-01-30,1.28
-Northern Ireland,,2021-01-31,1.3
-Northern Ireland,,2021-02-01,1.31
-Northern Ireland,,2021-02-02,1.33
-Northern Ireland,,2021-02-03,1.35
-Northern Ireland,,2021-02-04,1.38
-Northern Ireland,,2021-02-05,1.4
-Northern Ireland,,2021-02-06,1.44
-Northern Ireland,,2021-02-07,1.45
-Northern Ireland,,2021-02-08,1.46
-Northern Ireland,,2021-02-09,1.47
-Northern Ireland,,2021-02-10,1.49
-Northern Ireland,,2021-02-11,1.51
-Northern Ireland,,2021-02-12,1.53
-Northern Ireland,,2021-02-13,1.53
-Northern Ireland,,2021-02-14,1.53
-Northern Ireland,,2021-02-15,1.54
-Northern Ireland,,2021-02-16,1.56
-Northern Ireland,,2021-02-17,1.58
-Northern Ireland,,2021-02-18,1.6
-Northern Ireland,,2021-02-19,1.62
-Northern Ireland,,2021-02-20,1.63
-Northern Ireland,,2021-02-21,1.63
-Northern Ireland,,2021-02-22,1.64
-Northern Ireland,,2021-02-23,1.66
-Northern Ireland,,2021-02-24,1.67
-Northern Ireland,,2021-02-25,1.68
-Northern Ireland,,2021-02-26,1.72
-Northern Ireland,,2021-02-27,1.72
-Northern Ireland,,2021-02-28,1.75
-Northern Ireland,,2021-03-01,1.87
-Northern Ireland,,2021-03-02,2
-Northern Ireland,,2021-03-03,2.12
-Northern Ireland,,2021-03-04,2.21
-Northern Ireland,,2021-03-05,2.22
-Northern Ireland,,2021-03-06,2.23
-Northern Ireland,,2021-03-07,2.26
-Northern Ireland,,2021-03-08,2.35
-Northern Ireland,,2021-03-09,2.48
-Northern Ireland,,2021-03-10,2.58
-Northern Ireland,,2021-03-11,2.61
-Northern Ireland,,2021-03-12,2.64
-Northern Ireland,,2021-03-13,2.77
-Northern Ireland,,2021-03-14,2.89
+Northern Ireland,,2021-01-10,0.69
+Northern Ireland,,2021-01-11,0.78
+Northern Ireland,,2021-01-12,0.92
+Northern Ireland,,2021-01-13,0.98
+Northern Ireland,,2021-01-14,0.99
+Northern Ireland,,2021-01-15,1
+Northern Ireland,,2021-01-16,1.04
+Northern Ireland,,2021-01-17,1.09
+Northern Ireland,,2021-01-18,1.12
+Northern Ireland,,2021-01-19,1.14
+Northern Ireland,,2021-01-20,1.16
+Northern Ireland,,2021-01-21,1.17
+Northern Ireland,,2021-01-22,1.17
+Northern Ireland,,2021-01-23,1.17
+Northern Ireland,,2021-01-24,1.18
+Northern Ireland,,2021-01-25,1.18
+Northern Ireland,,2021-01-26,1.19
+Northern Ireland,,2021-01-27,1.21
+Northern Ireland,,2021-01-28,1.21
+Northern Ireland,,2021-01-29,1.22
+Northern Ireland,,2021-01-30,1.23
+Northern Ireland,,2021-01-31,1.24
+Northern Ireland,,2021-02-01,1.25
+Northern Ireland,,2021-02-02,1.27
+Northern Ireland,,2021-02-03,1.29
+Northern Ireland,,2021-02-04,1.31
+Northern Ireland,,2021-02-05,1.34
+Northern Ireland,,2021-02-06,1.38
+Northern Ireland,,2021-02-07,1.39
+Northern Ireland,,2021-02-08,1.39
+Northern Ireland,,2021-02-09,1.4
+Northern Ireland,,2021-02-10,1.42
+Northern Ireland,,2021-02-11,1.44
+Northern Ireland,,2021-02-12,1.46
+Northern Ireland,,2021-02-13,1.47
+Northern Ireland,,2021-02-14,1.47
+Northern Ireland,,2021-02-15,1.48
+Northern Ireland,,2021-02-16,1.49
+Northern Ireland,,2021-02-17,1.52
+Northern Ireland,,2021-02-18,1.54
+Northern Ireland,,2021-02-19,1.56
+Northern Ireland,,2021-02-20,1.56
+Northern Ireland,,2021-02-21,1.56
+Northern Ireland,,2021-02-22,1.58
+Northern Ireland,,2021-02-23,1.59
+Northern Ireland,,2021-02-24,1.61
+Northern Ireland,,2021-02-25,1.62
+Northern Ireland,,2021-02-26,1.66
+Northern Ireland,,2021-02-27,1.67
+Northern Ireland,,2021-02-28,1.69
+Northern Ireland,,2021-03-01,1.8
+Northern Ireland,,2021-03-02,1.91
+Northern Ireland,,2021-03-03,2.03
+Northern Ireland,,2021-03-04,2.12
+Northern Ireland,,2021-03-05,2.13
+Northern Ireland,,2021-03-06,2.14
+Northern Ireland,,2021-03-07,2.17
+Northern Ireland,,2021-03-08,2.26
+Northern Ireland,,2021-03-09,2.4
+Northern Ireland,,2021-03-10,2.52
+Northern Ireland,,2021-03-11,2.54
+Northern Ireland,,2021-03-12,2.57
+Northern Ireland,,2021-03-13,2.7
+Northern Ireland,,2021-03-14,2.82
 Northern Ireland,,2021-03-15,3.08
-Northern Ireland,,2021-03-16,3.38
-Northern Ireland,,2021-03-17,3.55
-Northern Ireland,,2021-03-18,3.73
+Northern Ireland,,2021-03-16,3.36
+Northern Ireland,,2021-03-17,3.56
+Northern Ireland,,2021-03-18,3.83
+Northern Ireland,,2021-03-19,4.15
+Northern Ireland,,2021-03-20,4.36
+Northern Ireland,,2021-03-21,4.49
+Northern Ireland,,2021-03-22,4.77
+Northern Ireland,,2021-03-23,5.08
+Northern Ireland,,2021-03-24,5.54
+Northern Ireland,,2021-03-25,6
 Norway,NOR,2021-01-17,0
 Norway,NOR,2021-01-18,0.01
 Norway,NOR,2021-01-19,0.02
@@ -2206,7 +2503,7 @@ Norway,NOR,2021-02-11,1.26
 Norway,NOR,2021-02-12,1.33
 Norway,NOR,2021-02-13,1.33
 Norway,NOR,2021-02-14,1.33
-Norway,NOR,2021-02-15,1.34
+Norway,NOR,2021-02-15,1.35
 Norway,NOR,2021-02-16,1.39
 Norway,NOR,2021-02-17,1.57
 Norway,NOR,2021-02-18,1.77
@@ -2214,11 +2511,11 @@ Norway,NOR,2021-02-19,1.86
 Norway,NOR,2021-02-20,1.86
 Norway,NOR,2021-02-21,1.87
 Norway,NOR,2021-02-22,1.87
-Norway,NOR,2021-02-23,1.96
+Norway,NOR,2021-02-23,1.97
 Norway,NOR,2021-02-24,2.38
 Norway,NOR,2021-02-25,2.84
 Norway,NOR,2021-02-26,3.02
-Norway,NOR,2021-02-27,3.02
+Norway,NOR,2021-02-27,3.03
 Norway,NOR,2021-02-28,3.03
 Norway,NOR,2021-03-01,3.03
 Norway,NOR,2021-03-02,3.1
@@ -2229,15 +2526,22 @@ Norway,NOR,2021-03-06,3.9
 Norway,NOR,2021-03-07,3.9
 Norway,NOR,2021-03-08,3.9
 Norway,NOR,2021-03-09,3.98
-Norway,NOR,2021-03-10,4.29
+Norway,NOR,2021-03-10,4.3
 Norway,NOR,2021-03-11,4.6
-Norway,NOR,2021-03-12,4.75
-Norway,NOR,2021-03-13,4.75
-Norway,NOR,2021-03-14,4.75
-Norway,NOR,2021-03-15,4.76
-Norway,NOR,2021-03-16,4.77
-Norway,NOR,2021-03-17,4.8
-Norway,NOR,2021-03-18,4.82
+Norway,NOR,2021-03-12,4.76
+Norway,NOR,2021-03-13,4.76
+Norway,NOR,2021-03-14,4.76
+Norway,NOR,2021-03-15,4.77
+Norway,NOR,2021-03-16,4.78
+Norway,NOR,2021-03-17,4.81
+Norway,NOR,2021-03-18,4.84
+Norway,NOR,2021-03-19,4.86
+Norway,NOR,2021-03-20,4.86
+Norway,NOR,2021-03-21,4.86
+Norway,NOR,2021-03-22,4.86
+Norway,NOR,2021-03-23,4.88
+Norway,NOR,2021-03-24,4.94
+Norway,NOR,2021-03-25,4.98
 Oman,OMN,2021-01-17,0.01
 Oman,OMN,2021-01-18,0.04
 Oman,OMN,2021-01-19,0.06
@@ -2267,23 +2571,32 @@ Oman,OMN,2021-03-09,0.37
 Oman,OMN,2021-03-10,0.37
 Oman,OMN,2021-03-15,0.37
 Oman,OMN,2021-03-17,0.37
+Oman,OMN,2021-03-22,0.37
+Oman,OMN,2021-03-24,0.37
 Peru,PER,2021-03-02,0
-Peru,PER,2021-03-03,0.03
+Peru,PER,2021-03-03,0.04
 Peru,PER,2021-03-04,0.11
-Peru,PER,2021-03-05,0.18
-Peru,PER,2021-03-06,0.22
-Peru,PER,2021-03-07,0.22
-Peru,PER,2021-03-08,0.25
-Peru,PER,2021-03-09,0.26
-Peru,PER,2021-03-10,0.28
-Peru,PER,2021-03-11,0.29
-Peru,PER,2021-03-12,0.33
-Peru,PER,2021-03-13,0.39
-Peru,PER,2021-03-14,0.4
-Peru,PER,2021-03-15,0.45
-Peru,PER,2021-03-16,0.5
-Peru,PER,2021-03-17,0.54
-Peru,PER,2021-03-18,0.57
+Peru,PER,2021-03-05,0.19
+Peru,PER,2021-03-06,0.23
+Peru,PER,2021-03-07,0.24
+Peru,PER,2021-03-08,0.27
+Peru,PER,2021-03-09,0.29
+Peru,PER,2021-03-10,0.3
+Peru,PER,2021-03-11,0.31
+Peru,PER,2021-03-12,0.35
+Peru,PER,2021-03-13,0.43
+Peru,PER,2021-03-14,0.43
+Peru,PER,2021-03-15,0.5
+Peru,PER,2021-03-16,0.56
+Peru,PER,2021-03-17,0.61
+Peru,PER,2021-03-18,0.65
+Peru,PER,2021-03-19,0.69
+Peru,PER,2021-03-20,0.7
+Peru,PER,2021-03-21,0.7
+Peru,PER,2021-03-22,0.72
+Peru,PER,2021-03-23,0.74
+Peru,PER,2021-03-24,0.75
+Peru,PER,2021-03-25,0.76
 Poland,POL,2021-01-17,0
 Poland,POL,2021-01-18,0.01
 Poland,POL,2021-01-19,0.03
@@ -2336,6 +2649,13 @@ Poland,POL,2021-03-15,4.25
 Poland,POL,2021-03-16,4.28
 Poland,POL,2021-03-17,4.4
 Poland,POL,2021-03-18,4.57
+Poland,POL,2021-03-19,4.68
+Poland,POL,2021-03-20,4.7
+Poland,POL,2021-03-21,4.71
+Poland,POL,2021-03-22,4.73
+Poland,POL,2021-03-23,4.78
+Poland,POL,2021-03-24,4.91
+Poland,POL,2021-03-26,5.2
 Portugal,PRT,2021-01-17,0.01
 Portugal,PRT,2021-01-18,0.02
 Portugal,PRT,2021-01-19,0.09
@@ -2393,6 +2713,13 @@ Portugal,PRT,2021-03-16,3.37
 Portugal,PRT,2021-03-17,3.43
 Portugal,PRT,2021-03-18,3.64
 Portugal,PRT,2021-03-19,3.97
+Portugal,PRT,2021-03-20,4.25
+Portugal,PRT,2021-03-21,4.37
+Portugal,PRT,2021-03-22,4.39
+Portugal,PRT,2021-03-23,4.46
+Portugal,PRT,2021-03-24,4.48
+Portugal,PRT,2021-03-25,4.52
+Portugal,PRT,2021-03-26,4.56
 Romania,ROU,2021-01-17,0
 Romania,ROU,2021-01-18,0.01
 Romania,ROU,2021-01-19,0.01
@@ -2454,6 +2781,13 @@ Romania,ROU,2021-03-15,3.76
 Romania,ROU,2021-03-16,3.84
 Romania,ROU,2021-03-17,3.91
 Romania,ROU,2021-03-18,3.96
+Romania,ROU,2021-03-19,4
+Romania,ROU,2021-03-20,4.02
+Romania,ROU,2021-03-21,4.04
+Romania,ROU,2021-03-22,4.16
+Romania,ROU,2021-03-23,4.3
+Romania,ROU,2021-03-24,4.45
+Romania,ROU,2021-03-25,4.6
 Russia,RUS,2021-02-10,1.16
 Russia,RUS,2021-03-01,0.75
 Russia,RUS,2021-03-02,0.75
@@ -2472,7 +2806,14 @@ Russia,RUS,2021-03-14,1.48
 Russia,RUS,2021-03-17,1.67
 Russia,RUS,2021-03-18,1.7
 Russia,RUS,2021-03-19,1.81
+Russia,RUS,2021-03-20,1.86
+Russia,RUS,2021-03-21,1.89
+Russia,RUS,2021-03-22,2.95
 San Marino,SMR,2021-03-18,0.09
+San Marino,SMR,2021-03-19,0.1
+San Marino,SMR,2021-03-22,0.77
+San Marino,SMR,2021-03-23,1.49
+San Marino,SMR,2021-03-24,2.52
 Scotland,,2021-01-03,0
 Scotland,,2021-01-10,0.05
 Scotland,,2021-01-11,0.05
@@ -2542,6 +2883,13 @@ Scotland,,2021-03-15,3.13
 Scotland,,2021-03-16,3.33
 Scotland,,2021-03-17,3.52
 Scotland,,2021-03-18,3.69
+Scotland,,2021-03-19,3.87
+Scotland,,2021-03-20,4.03
+Scotland,,2021-03-21,4.12
+Scotland,,2021-03-22,4.31
+Scotland,,2021-03-23,4.56
+Scotland,,2021-03-24,4.82
+Scotland,,2021-03-25,5.12
 Serbia,SRB,2021-02-10,0.7
 Serbia,SRB,2021-02-12,1.85
 Serbia,SRB,2021-02-14,2.67
@@ -2569,6 +2917,13 @@ Serbia,SRB,2021-03-15,11.63
 Serbia,SRB,2021-03-16,11.67
 Serbia,SRB,2021-03-17,11.89
 Serbia,SRB,2021-03-18,12.15
+Serbia,SRB,2021-03-19,12.61
+Serbia,SRB,2021-03-20,12.62
+Serbia,SRB,2021-03-21,12.67
+Serbia,SRB,2021-03-22,12.71
+Serbia,SRB,2021-03-23,12.88
+Serbia,SRB,2021-03-24,13.28
+Serbia,SRB,2021-03-26,13.47
 Seychelles,SYC,2021-02-03,0.01
 Seychelles,SYC,2021-02-06,1.61
 Seychelles,SYC,2021-02-08,4.05
@@ -2593,6 +2948,8 @@ Seychelles,SYC,2021-03-10,27.35
 Seychelles,SYC,2021-03-11,27.49
 Seychelles,SYC,2021-03-15,27.91
 Seychelles,SYC,2021-03-18,28.16
+Seychelles,SYC,2021-03-23,31.9
+Seychelles,SYC,2021-03-24,33.95
 Singapore,SGP,2021-01-27,0
 Singapore,SGP,2021-01-31,0
 Singapore,SGP,2021-02-02,0.1
@@ -2603,6 +2960,8 @@ Singapore,SGP,2021-03-04,3.67
 Singapore,SGP,2021-03-07,3.71
 Singapore,SGP,2021-03-08,3.74
 Singapore,SGP,2021-03-15,4.16
+Singapore,SGP,2021-03-22,5.14
+Singapore,SGP,2021-03-23,5.3
 Slovakia,SVK,2021-01-18,0.01
 Slovakia,SVK,2021-01-19,0.02
 Slovakia,SVK,2021-01-20,0.03
@@ -2653,17 +3012,24 @@ Slovakia,SVK,2021-03-05,3.25
 Slovakia,SVK,2021-03-06,3.29
 Slovakia,SVK,2021-03-07,3.29
 Slovakia,SVK,2021-03-08,3.45
-Slovakia,SVK,2021-03-09,3.57
-Slovakia,SVK,2021-03-10,3.69
-Slovakia,SVK,2021-03-11,3.82
-Slovakia,SVK,2021-03-12,3.93
-Slovakia,SVK,2021-03-13,3.97
-Slovakia,SVK,2021-03-14,3.97
-Slovakia,SVK,2021-03-15,4.03
-Slovakia,SVK,2021-03-16,4.09
-Slovakia,SVK,2021-03-17,4.15
-Slovakia,SVK,2021-03-18,4.21
-Slovakia,SVK,2021-03-19,4.21
+Slovakia,SVK,2021-03-09,3.58
+Slovakia,SVK,2021-03-10,3.7
+Slovakia,SVK,2021-03-11,3.83
+Slovakia,SVK,2021-03-12,3.94
+Slovakia,SVK,2021-03-13,3.98
+Slovakia,SVK,2021-03-14,3.98
+Slovakia,SVK,2021-03-15,4.05
+Slovakia,SVK,2021-03-16,4.11
+Slovakia,SVK,2021-03-17,4.17
+Slovakia,SVK,2021-03-18,4.24
+Slovakia,SVK,2021-03-19,4.34
+Slovakia,SVK,2021-03-20,4.37
+Slovakia,SVK,2021-03-21,4.39
+Slovakia,SVK,2021-03-22,4.45
+Slovakia,SVK,2021-03-23,4.53
+Slovakia,SVK,2021-03-24,4.6
+Slovakia,SVK,2021-03-25,4.65
+Slovakia,SVK,2021-03-26,4.68
 Slovenia,SVN,2021-01-18,0.01
 Slovenia,SVN,2021-01-19,0.09
 Slovenia,SVN,2021-01-20,0.25
@@ -2676,54 +3042,59 @@ Slovenia,SVN,2021-01-26,0.57
 Slovenia,SVN,2021-01-27,0.8
 Slovenia,SVN,2021-01-28,1.07
 Slovenia,SVN,2021-01-29,1.26
-Slovenia,SVN,2021-01-30,1.26
-Slovenia,SVN,2021-01-31,1.26
-Slovenia,SVN,2021-02-01,1.26
+Slovenia,SVN,2021-01-30,1.27
+Slovenia,SVN,2021-01-31,1.27
+Slovenia,SVN,2021-02-01,1.27
 Slovenia,SVN,2021-02-02,1.32
 Slovenia,SVN,2021-02-03,1.54
-Slovenia,SVN,2021-02-04,1.86
+Slovenia,SVN,2021-02-04,1.87
 Slovenia,SVN,2021-02-05,2.12
-Slovenia,SVN,2021-02-06,2.14
-Slovenia,SVN,2021-02-07,2.14
-Slovenia,SVN,2021-02-08,2.14
+Slovenia,SVN,2021-02-06,2.15
+Slovenia,SVN,2021-02-07,2.15
+Slovenia,SVN,2021-02-08,2.15
 Slovenia,SVN,2021-02-09,2.15
 Slovenia,SVN,2021-02-10,2.18
-Slovenia,SVN,2021-02-11,2.26
+Slovenia,SVN,2021-02-11,2.27
 Slovenia,SVN,2021-02-12,2.35
 Slovenia,SVN,2021-02-13,2.36
 Slovenia,SVN,2021-02-14,2.36
 Slovenia,SVN,2021-02-15,2.36
 Slovenia,SVN,2021-02-16,2.36
 Slovenia,SVN,2021-02-17,2.39
-Slovenia,SVN,2021-02-18,2.42
-Slovenia,SVN,2021-02-19,2.45
-Slovenia,SVN,2021-02-20,2.45
-Slovenia,SVN,2021-02-21,2.45
-Slovenia,SVN,2021-02-22,2.45
+Slovenia,SVN,2021-02-18,2.43
+Slovenia,SVN,2021-02-19,2.46
+Slovenia,SVN,2021-02-20,2.46
+Slovenia,SVN,2021-02-21,2.46
+Slovenia,SVN,2021-02-22,2.46
 Slovenia,SVN,2021-02-23,2.46
-Slovenia,SVN,2021-02-24,2.46
-Slovenia,SVN,2021-02-25,2.47
+Slovenia,SVN,2021-02-24,2.47
+Slovenia,SVN,2021-02-25,2.48
 Slovenia,SVN,2021-02-26,2.5
 Slovenia,SVN,2021-02-27,2.5
 Slovenia,SVN,2021-02-28,2.5
 Slovenia,SVN,2021-03-01,2.5
-Slovenia,SVN,2021-03-02,2.5
-Slovenia,SVN,2021-03-03,2.54
-Slovenia,SVN,2021-03-04,2.75
+Slovenia,SVN,2021-03-02,2.51
+Slovenia,SVN,2021-03-03,2.55
+Slovenia,SVN,2021-03-04,2.76
 Slovenia,SVN,2021-03-05,3.03
 Slovenia,SVN,2021-03-06,3.06
 Slovenia,SVN,2021-03-07,3.06
 Slovenia,SVN,2021-03-08,3.08
 Slovenia,SVN,2021-03-09,3.1
 Slovenia,SVN,2021-03-10,3.34
-Slovenia,SVN,2021-03-11,3.71
-Slovenia,SVN,2021-03-12,3.95
-Slovenia,SVN,2021-03-13,4.06
-Slovenia,SVN,2021-03-14,4.06
-Slovenia,SVN,2021-03-15,4.07
-Slovenia,SVN,2021-03-16,4.11
-Slovenia,SVN,2021-03-17,4.38
-Slovenia,SVN,2021-03-18,4.77
+Slovenia,SVN,2021-03-11,3.72
+Slovenia,SVN,2021-03-12,3.96
+Slovenia,SVN,2021-03-13,4.07
+Slovenia,SVN,2021-03-14,4.07
+Slovenia,SVN,2021-03-15,4.08
+Slovenia,SVN,2021-03-16,4.12
+Slovenia,SVN,2021-03-17,4.39
+Slovenia,SVN,2021-03-18,4.79
+Slovenia,SVN,2021-03-19,5.01
+Slovenia,SVN,2021-03-20,5.02
+Slovenia,SVN,2021-03-21,5.02
+Slovenia,SVN,2021-03-22,5.02
+Slovenia,SVN,2021-03-23,5.03
 South Africa,ZAF,2021-02-18,0
 South Africa,ZAF,2021-02-19,0.01
 South Africa,ZAF,2021-02-20,0.02
@@ -2753,6 +3124,10 @@ South Africa,ZAF,2021-03-16,0.27
 South Africa,ZAF,2021-03-17,0.28
 South Africa,ZAF,2021-03-18,0.3
 South Africa,ZAF,2021-03-19,0.31
+South Africa,ZAF,2021-03-23,0.33
+South Africa,ZAF,2021-03-24,0.35
+South Africa,ZAF,2021-03-25,0.37
+South Africa,ZAF,2021-03-26,0.39
 South America,,2021-01-13,0
 South America,,2021-01-14,0
 South America,,2021-01-15,0
@@ -2804,7 +3179,7 @@ South America,,2021-03-01,0.53
 South America,,2021-03-02,0.56
 South America,,2021-03-03,0.63
 South America,,2021-03-04,0.71
-South America,,2021-03-05,0.79
+South America,,2021-03-05,0.8
 South America,,2021-03-06,0.8
 South America,,2021-03-07,0.81
 South America,,2021-03-08,0.86
@@ -2815,10 +3190,24 @@ South America,,2021-03-12,1.18
 South America,,2021-03-13,1.22
 South America,,2021-03-14,1.23
 South America,,2021-03-15,1.33
-South America,,2021-03-16,1.39
-South America,,2021-03-17,1.51
-South America,,2021-03-18,1.58
-South America,,2021-03-19,1.64
+South America,,2021-03-16,1.4
+South America,,2021-03-17,1.52
+South America,,2021-03-18,1.59
+South America,,2021-03-19,1.65
+South America,,2021-03-20,1.66
+South America,,2021-03-21,1.68
+South America,,2021-03-22,1.74
+South America,,2021-03-23,1.8
+South America,,2021-03-24,1.86
+South America,,2021-03-25,1.88
+South America,,2021-03-26,1.91
+South Korea,KOR,2021-03-20,0
+South Korea,KOR,2021-03-21,0
+South Korea,KOR,2021-03-22,0
+South Korea,KOR,2021-03-23,0
+South Korea,KOR,2021-03-24,0.01
+South Korea,KOR,2021-03-25,0.01
+South Korea,KOR,2021-03-26,0.01
 Spain,ESP,2021-01-18,0
 Spain,ESP,2021-01-19,0.02
 Spain,ESP,2021-01-20,0.03
@@ -2863,51 +3252,66 @@ Spain,ESP,2021-03-15,3.62
 Spain,ESP,2021-03-16,3.7
 Spain,ESP,2021-03-17,3.86
 Spain,ESP,2021-03-18,4.04
+Spain,ESP,2021-03-22,4.51
+Spain,ESP,2021-03-23,4.61
+Spain,ESP,2021-03-24,4.87
+Spain,ESP,2021-03-25,5.12
+Spain,ESP,2021-03-26,5.36
+Sweden,SWE,2021-01-10,0
 Sweden,SWE,2021-01-17,0
 Sweden,SWE,2021-01-24,0.1
 Sweden,SWE,2021-01-31,0.34
 Sweden,SWE,2021-02-07,0.88
 Sweden,SWE,2021-02-14,1.55
-Sweden,SWE,2021-02-21,2.35
-Sweden,SWE,2021-02-28,2.85
-Sweden,SWE,2021-03-07,3.22
-Sweden,SWE,2021-03-12,3.32
-Sweden,SWE,2021-03-16,3.54
-Sweden,SWE,2021-03-17,3.58
-Sweden,SWE,2021-03-18,3.68
+Sweden,SWE,2021-02-21,2.37
+Sweden,SWE,2021-02-28,2.87
+Sweden,SWE,2021-03-07,3.24
+Sweden,SWE,2021-03-14,3.62
 Sweden,SWE,2021-03-19,3.8
+Sweden,SWE,2021-03-23,4.1
+Sweden,SWE,2021-03-24,4.16
+Sweden,SWE,2021-03-25,4.29
+Sweden,SWE,2021-03-26,4.43
 Switzerland,CHE,2021-02-14,1.18
-Switzerland,CHE,2021-02-15,1.24
-Switzerland,CHE,2021-02-16,1.32
-Switzerland,CHE,2021-02-17,1.58
-Switzerland,CHE,2021-02-18,1.67
-Switzerland,CHE,2021-02-19,1.75
-Switzerland,CHE,2021-02-20,1.78
+Switzerland,CHE,2021-02-15,1.25
+Switzerland,CHE,2021-02-16,1.33
+Switzerland,CHE,2021-02-17,1.59
+Switzerland,CHE,2021-02-18,1.68
+Switzerland,CHE,2021-02-19,1.77
+Switzerland,CHE,2021-02-20,1.79
 Switzerland,CHE,2021-02-21,2
-Switzerland,CHE,2021-02-22,2.07
-Switzerland,CHE,2021-02-23,2.15
+Switzerland,CHE,2021-02-22,2.08
+Switzerland,CHE,2021-02-23,2.17
 Switzerland,CHE,2021-02-24,2.55
-Switzerland,CHE,2021-02-25,2.63
-Switzerland,CHE,2021-02-26,2.7
-Switzerland,CHE,2021-02-27,2.72
-Switzerland,CHE,2021-02-28,2.99
-Switzerland,CHE,2021-03-01,3.05
-Switzerland,CHE,2021-03-02,3.11
-Switzerland,CHE,2021-03-03,3.46
-Switzerland,CHE,2021-03-04,3.53
-Switzerland,CHE,2021-03-05,3.57
-Switzerland,CHE,2021-03-06,3.58
-Switzerland,CHE,2021-03-07,3.83
-Switzerland,CHE,2021-03-08,3.88
-Switzerland,CHE,2021-03-09,3.93
-Switzerland,CHE,2021-03-10,4.26
-Switzerland,CHE,2021-03-11,4.31
-Switzerland,CHE,2021-03-12,4.37
-Switzerland,CHE,2021-03-13,4.38
-Switzerland,CHE,2021-03-14,4.55
-Switzerland,CHE,2021-03-15,4.62
-Switzerland,CHE,2021-03-16,4.7
-Switzerland,CHE,2021-03-17,4.99
+Switzerland,CHE,2021-02-25,2.65
+Switzerland,CHE,2021-02-26,2.73
+Switzerland,CHE,2021-02-27,2.74
+Switzerland,CHE,2021-02-28,3
+Switzerland,CHE,2021-03-01,3.07
+Switzerland,CHE,2021-03-02,3.13
+Switzerland,CHE,2021-03-03,3.47
+Switzerland,CHE,2021-03-04,3.55
+Switzerland,CHE,2021-03-05,3.6
+Switzerland,CHE,2021-03-06,3.61
+Switzerland,CHE,2021-03-07,3.85
+Switzerland,CHE,2021-03-08,3.9
+Switzerland,CHE,2021-03-09,3.96
+Switzerland,CHE,2021-03-10,4.27
+Switzerland,CHE,2021-03-11,4.34
+Switzerland,CHE,2021-03-12,4.41
+Switzerland,CHE,2021-03-13,4.42
+Switzerland,CHE,2021-03-14,4.57
+Switzerland,CHE,2021-03-15,4.65
+Switzerland,CHE,2021-03-16,4.74
+Switzerland,CHE,2021-03-17,5
+Switzerland,CHE,2021-03-18,5.09
+Switzerland,CHE,2021-03-19,5.16
+Switzerland,CHE,2021-03-20,5.16
+Switzerland,CHE,2021-03-21,5.37
+Switzerland,CHE,2021-03-22,5.45
+Switzerland,CHE,2021-03-23,5.54
+Switzerland,CHE,2021-03-24,5.83
+Thailand,THA,2021-03-24,0.01
 Turkey,TUR,2021-02-12,0.4
 Turkey,TUR,2021-02-13,0.54
 Turkey,TUR,2021-02-14,0.58
@@ -2944,15 +3348,27 @@ Turkey,TUR,2021-03-16,4.44
 Turkey,TUR,2021-03-17,4.94
 Turkey,TUR,2021-03-18,5.26
 Turkey,TUR,2021-03-19,5.73
+Turkey,TUR,2021-03-20,5.94
+Turkey,TUR,2021-03-21,5.98
+Turkey,TUR,2021-03-22,6.19
+Turkey,TUR,2021-03-23,6.52
+Turkey,TUR,2021-03-24,6.92
+Turkey,TUR,2021-03-25,7.19
+Turkey,TUR,2021-03-26,7.46
 Ukraine,UKR,2021-03-17,0
 Ukraine,UKR,2021-03-19,0
+Ukraine,UKR,2021-03-20,0
+Ukraine,UKR,2021-03-21,0
+Ukraine,UKR,2021-03-22,0
+Ukraine,UKR,2021-03-23,0
+Ukraine,UKR,2021-03-25,0
 United Arab Emirates,ARE,2021-01-10,2.53
 United Arab Emirates,ARE,2021-02-23,22.12
 United Kingdom,GBR,2021-01-03,0.03
 United Kingdom,GBR,2021-01-10,0.58
 United Kingdom,GBR,2021-01-11,0.61
 United Kingdom,GBR,2021-01-12,0.63
-United Kingdom,GBR,2021-01-13,0.65
+United Kingdom,GBR,2021-01-13,0.64
 United Kingdom,GBR,2021-01-14,0.65
 United Kingdom,GBR,2021-01-15,0.66
 United Kingdom,GBR,2021-01-16,0.66
@@ -2974,12 +3390,12 @@ United Kingdom,GBR,2021-01-31,0.73
 United Kingdom,GBR,2021-02-01,0.73
 United Kingdom,GBR,2021-02-02,0.73
 United Kingdom,GBR,2021-02-03,0.74
-United Kingdom,GBR,2021-02-04,0.75
+United Kingdom,GBR,2021-02-04,0.74
 United Kingdom,GBR,2021-02-05,0.75
 United Kingdom,GBR,2021-02-06,0.75
-United Kingdom,GBR,2021-02-07,0.76
+United Kingdom,GBR,2021-02-07,0.75
 United Kingdom,GBR,2021-02-08,0.76
-United Kingdom,GBR,2021-02-09,0.77
+United Kingdom,GBR,2021-02-09,0.76
 United Kingdom,GBR,2021-02-10,0.77
 United Kingdom,GBR,2021-02-11,0.78
 United Kingdom,GBR,2021-02-12,0.79
@@ -2987,13 +3403,13 @@ United Kingdom,GBR,2021-02-13,0.79
 United Kingdom,GBR,2021-02-14,0.79
 United Kingdom,GBR,2021-02-15,0.8
 United Kingdom,GBR,2021-02-16,0.82
-United Kingdom,GBR,2021-02-17,0.85
+United Kingdom,GBR,2021-02-17,0.84
 United Kingdom,GBR,2021-02-18,0.87
 United Kingdom,GBR,2021-02-19,0.89
-United Kingdom,GBR,2021-02-20,0.91
+United Kingdom,GBR,2021-02-20,0.9
 United Kingdom,GBR,2021-02-21,0.92
 United Kingdom,GBR,2021-02-22,0.95
-United Kingdom,GBR,2021-02-23,0.99
+United Kingdom,GBR,2021-02-23,0.98
 United Kingdom,GBR,2021-02-24,1.03
 United Kingdom,GBR,2021-02-25,1.08
 United Kingdom,GBR,2021-02-26,1.13
@@ -3003,7 +3419,7 @@ United Kingdom,GBR,2021-03-01,1.24
 United Kingdom,GBR,2021-03-02,1.32
 United Kingdom,GBR,2021-03-03,1.42
 United Kingdom,GBR,2021-03-04,1.52
-United Kingdom,GBR,2021-03-05,1.61
+United Kingdom,GBR,2021-03-05,1.6
 United Kingdom,GBR,2021-03-06,1.65
 United Kingdom,GBR,2021-03-07,1.68
 United Kingdom,GBR,2021-03-08,1.74
@@ -3016,7 +3432,14 @@ United Kingdom,GBR,2021-03-14,2.37
 United Kingdom,GBR,2021-03-15,2.45
 United Kingdom,GBR,2021-03-16,2.59
 United Kingdom,GBR,2021-03-17,2.77
-United Kingdom,GBR,2021-03-18,2.96
+United Kingdom,GBR,2021-03-18,2.97
+United Kingdom,GBR,2021-03-19,3.15
+United Kingdom,GBR,2021-03-20,3.29
+United Kingdom,GBR,2021-03-21,3.36
+United Kingdom,GBR,2021-03-22,3.48
+United Kingdom,GBR,2021-03-23,3.73
+United Kingdom,GBR,2021-03-24,4.09
+United Kingdom,GBR,2021-03-25,4.43
 United States,USA,2021-01-14,0.4
 United States,USA,2021-01-15,0.48
 United States,USA,2021-01-19,0.6
@@ -3078,6 +3501,13 @@ United States,USA,2021-03-16,11.67
 United States,USA,2021-03-17,11.96
 United States,USA,2021-03-18,12.25
 United States,USA,2021-03-19,12.54
+United States,USA,2021-03-20,12.87
+United States,USA,2021-03-21,13.2
+United States,USA,2021-03-22,13.43
+United States,USA,2021-03-23,13.61
+United States,USA,2021-03-24,13.86
+United States,USA,2021-03-25,14.18
+United States,USA,2021-03-26,14.56
 Wales,,2021-01-03,0
 Wales,,2021-01-10,0
 Wales,,2021-01-11,0
@@ -3145,6 +3575,13 @@ Wales,,2021-03-15,8.66
 Wales,,2021-03-16,9.17
 Wales,,2021-03-17,9.66
 Wales,,2021-03-18,10.12
+Wales,,2021-03-19,10.45
+Wales,,2021-03-20,10.75
+Wales,,2021-03-21,10.98
+Wales,,2021-03-22,11.21
+Wales,,2021-03-23,11.63
+Wales,,2021-03-24,12.01
+Wales,,2021-03-25,12.36
 World,OWID_WRL,2021-01-03,0
 World,OWID_WRL,2021-01-04,0
 World,OWID_WRL,2021-01-05,0
@@ -3205,7 +3642,7 @@ World,OWID_WRL,2021-02-28,0.7
 World,OWID_WRL,2021-03-01,0.71
 World,OWID_WRL,2021-03-02,0.73
 World,OWID_WRL,2021-03-03,0.75
-World,OWID_WRL,2021-03-04,0.78
+World,OWID_WRL,2021-03-04,0.79
 World,OWID_WRL,2021-03-05,0.81
 World,OWID_WRL,2021-03-06,0.84
 World,OWID_WRL,2021-03-07,0.86
@@ -3220,4 +3657,11 @@ World,OWID_WRL,2021-03-15,1.1
 World,OWID_WRL,2021-03-16,1.14
 World,OWID_WRL,2021-03-17,1.18
 World,OWID_WRL,2021-03-18,1.22
-World,OWID_WRL,2021-03-19,1.25
+World,OWID_WRL,2021-03-19,1.26
+World,OWID_WRL,2021-03-20,1.29
+World,OWID_WRL,2021-03-21,1.31
+World,OWID_WRL,2021-03-22,1.36
+World,OWID_WRL,2021-03-23,1.4
+World,OWID_WRL,2021-03-24,1.43
+World,OWID_WRL,2021-03-25,1.47
+World,OWID_WRL,2021-03-26,1.5
