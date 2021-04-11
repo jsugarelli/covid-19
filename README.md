@@ -2,7 +2,7 @@ Covid-19 Situation in Germany
 ================
 
 ### Current Situation in One Graph
-Last reported data is from **March 26th**.
+Last reported data is from **April 9th**.
 
 ![](onepicture.png)
 
@@ -20,7 +20,7 @@ With effect from March 1st (vertical green line), the German government has deci
 * **ICU usage data**:  DIVI intensive care register operated by the [Robert-Koch-Institut]() (RKI) and the [Deutsche Interdisziplinäre
 Vereinigung für Intensiv- und Notfallmedizin](https://www.divi.de/); data can be downloaded from <https://www.intensivregister.de/#/aktuelle-lage/reports> (click "Zeitreihen-Daten" to download the time series data).
 * **Death cases** and **7-day incidence data**: [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Daten.html;jsessionid=FB9800F61AE81ACFF850FB2567F1F1DB.internet071?nn=2386228).
-* **Vaccination rate** and **vaccination dose availability data** for **Germany**: [Vaccination dashboard of the German Government](https://impfdashboard.de/daten)
+* **Vaccination rate** for **Germany**: [Vaccination dashboard of the German Government](https://impfdashboard.de/daten)
 * **Vaccination rate data** for the **United States**: [Our World in Data](https://ourworldindata.org/covid-vaccinations?country=~USA)
 * **Dates of market availability of vaccines in Germany**: [Robert-Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Impfquotenmonitoring.xlsx?__blob=publicationFile)
 * **Population number Germany**: [Federal Statistical Office of Germany](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/zensus-geschlecht-staatsangehoerigkeit-2020.html)
