@@ -103,7 +103,7 @@ full <- inner_join(divi, deaths, by = c("date"))
 full <- inner_join(full, inc, by = c("date"))
 full <- left_join(full, vacc_de, by = c("date"))
 full <- left_join(full, vacc_us, by = c("date"))
-full <- full[full$date >= ymd("2020-10-14") &  full$date <= ymd("2021-04-09"), ]
+full <- full[full$date >= ymd("2020-10-14") &  full$date <= ymd("2021-04-21"), ]
 full.long <- melt(full, id.vars = "date", value.name = "val")
 
 
@@ -153,11 +153,11 @@ graph <- ggplot() +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val/coeff1),
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "newdeaths",],
                   size = 3.5, fontface = "bold", color = "red2", nudge_x = 1,
-                  nudge_y = -1, segment.colour = "transparent") +
+                  nudge_y = 0, segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val),
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "firstvaccrate_de",],
                   size = 3.5, fontface = "bold", color = "springgreen3", nudge_x = 1,
-                  nudge_y = 1, segment.colour = "transparent") +
+                  nudge_y = 0, segment.colour = "transparent") +
   geom_text_repel(aes(label = round(val, 1), x = date, y = val),
                   data = full.long[full.long$date == max(full.long$date) & full.long$variable == "firstvaccrate_us",],
                   size = 3.5, fontface = "bold", color = "gray52", nudge_x = 1,
@@ -189,8 +189,8 @@ graph <- ggplot() +
                                 "Vacc. rate (at least one dose) Germany",
                                 "Vacc. rate (at least one dose) US")) +
   scale_y_continuous(breaks = seq(0, 100, 5),
-              sec.axis = sec_axis(~.*coeff1, name = "Death cases / 7-day incidence",
-                                  breaks = seq(0, 1250, by = 50))) +
+                     sec.axis = sec_axis(~.*coeff1, name = "Death cases / 7-day incidence",
+                                         breaks = seq(0, 1250, by = 50))) +
   scale_x_date(date_breaks = waiver(), date_minor_breaks = "1 week",
                limits = c(min(full.long$date), max(full.long$date))) +
   labs(title = "",
