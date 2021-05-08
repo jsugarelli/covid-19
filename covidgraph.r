@@ -89,11 +89,11 @@ vacc_de$date <- dmy(vacc_de$date)
 
 # United States
 vacc_us <- as_tibble(read.csv("vaccinations_us.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE))
-names(vacc_us) <- c("country", "code", "date", "firstvaccrate_us")
+names(vacc_us) <- c("country", "code", "date", "firstvaccrate_us", "annotations")
 vacc_us$date <- ymd(vacc_us$date)
 vacc_us$firstvaccrate_us <- vacc_us$firstvaccrate_us
 vacc_us <- vacc_us[vacc_us$country == "United States",]
-vacc_us <- vacc_us[, c(3:NCOL(vacc_us))]
+vacc_us <- vacc_us[, c(3:4)]
 
 
 
@@ -103,7 +103,7 @@ full <- inner_join(divi, deaths, by = c("date"))
 full <- inner_join(full, inc, by = c("date"))
 full <- left_join(full, vacc_de, by = c("date"))
 full <- left_join(full, vacc_us, by = c("date"))
-full <- full[full$date >= ymd("2020-10-14") &  full$date <= ymd("2021-04-21"), ]
+full <- full[full$date >= ymd("2020-10-14") &  full$date <= ymd("2021-05-07"), ]
 full.long <- melt(full, id.vars = "date", value.name = "val")
 
 
@@ -191,7 +191,7 @@ graph <- ggplot() +
   scale_y_continuous(breaks = seq(0, 100, 5),
                      sec.axis = sec_axis(~.*coeff1, name = "Death cases / 7-day incidence",
                                          breaks = seq(0, 1250, by = 50))) +
-  scale_x_date(date_breaks = waiver(), date_minor_breaks = "1 week",
+  scale_x_date(date_breaks = "1 month", date_minor_breaks = "1 week",
                limits = c(min(full.long$date), max(full.long$date))) +
   labs(title = "",
        x = "", y = "Percent of total ICU capacity / Vaccination rates",
